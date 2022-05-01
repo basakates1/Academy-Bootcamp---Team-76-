@@ -19,12 +19,12 @@ Cerebellum
 ## Ürün İsmi
 
 ## Ürün Özellikleri
-- Kolay level atlanabilir.
-- Oyundaki toplanan paralarla oyun içindeki marketten itemler alınabilir.
+- Kolay level atlanabilir
+- Oyundaki toplanan paralarla oyun içindeki marketten itemler alınabilir
 - Hızlı ilerleme kaydedilebilir 
 - Kısa oyun oturumu
 - Kolay anlaşılabilir oyun mekaniği 
-- Basit gelir mekaniği 
+- Basit gelir modeli
 
 
 ## Hedef Kitle 
