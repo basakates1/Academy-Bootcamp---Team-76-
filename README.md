@@ -13,11 +13,10 @@ Cerebellum
 - Arda Özkardeşler: Developer
 - Ensar Akdere: Developer
 
-## Ürün Açıklaması: 
-Willy's Farm adlı oyunumuz ile insanların boş zamanlarını değerlendirmelerini amaçlıyoruz.
-
 ## Ürün İsmi
 Willy's Farm
+## Ürün Açıklaması: 
+Willy's Farm adlı oyunumuz ile insanların boş zamanlarını değerlendirmelerini amaçlıyoruz.
 ## Ürün Özellikleri
 - Kolay level atlanabilir
 - Oyundaki toplanan paralarla oyun içindeki marketten itemler alınabilir
