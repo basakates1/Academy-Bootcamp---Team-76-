@@ -41,6 +41,8 @@ Willy's Farm adlı oyunumuz ile insanların boş zamanlarını değerlendirmeler
 - **Daily Scrum:** Günlük scrumlarin Whatsapp üzerinden yapılmasına karar verildi. Toplantılar ekran görüntüsü olarak paylaşılacaktır. 
 - **Sprint Board Update:** 
 - <img src="https://i.ibb.co/LRnqQdp/ilksprint1.png" alt="Sprint 1" width="auto" height="auto">
+- <img src="https://i.ibb.co/WPJpKz1/sprint11.png" alt="Sprint 1" width="auto" height="auto">
+- <img src="https://i.ibb.co/mG10ZJf/sprint1-2.png" alt="Sprint 1" width="auto" height="auto">
 - 
 - **Ürün Durumu:**
 - **Sprint Review:** 
