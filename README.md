@@ -13,8 +13,8 @@ Cerebellum
 - Arda Özkardeşler: Developer
 - Ensar Akdere: Developer
 
-## Ürün Açıklaması
-….. adlı oyunumuz ile insanların boş zamanlarını değerlendirmelerini amaçlıyoruz.
+## Ürün Açıklaması: 
+Willy's Farm adlı oyunumuz ile insanların boş zamanlarını değerlendirmelerini amaçlıyoruz.
 
 ## Ürün İsmi
 
