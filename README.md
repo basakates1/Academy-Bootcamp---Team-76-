@@ -40,11 +40,11 @@ Willy's Farm adlı oyunumuz ile insanların boş zamanlarını değerlendirmeler
 - **Backlog düzeni ve Story seçimleri:** Backloglar, Product ve Sprint Backloglar olarak ikiye ayrıldı. Her bir Sprintte yeni bir Sprint backlogu yazılacak ve Product Backloguyla birlikte her bir sprint backlogu farklı renkle gösterilecek. İlk Sprint backlog rengi sarı, Product Backlog rengi ise mavi. User Storyler backlogların detaylar kısmına yazıldı. Tahmin puanları Fibonacci puanlamasıyla verildi ve backlog zorluk dereceleri belirlenirken tshirt size birimi kullanıldı. 
 - **Daily Scrum:** Günlük scrumların Whatsapp ve Discord üzerinden yapılmasına karar verildi. Toplantılar ekran görüntüsü olarak paylaşılacaktır. 
 - **Sprint Board Update:** 
- <img src="https://i.ibb.co/LRnqQdp/ilksprint1.png" alt="Sprint 1" width="auto" height="auto">
- <img src="https://i.ibb.co/WPJpKz1/sprint11.png" alt="Sprint 1" width="auto" height="auto">
- <img src="https://i.ibb.co/mG10ZJf/sprint1-2.png" alt="Sprint 1" width="auto" height="auto">
--**Ürün Durumu:**
- <img src="https://i.ibb.co/kcg22Bt/sprint1-1.gif" alt="Ürün Durumu" width="auto" height="auto">
- <img src="https://i.ibb.co/rtkWDw1/sprint1-2.gif" alt="Ürün Durumu" width="auto" height="auto">
--**Sprint Review:** 
--**Sprint Retrospective:**
+- <img src="https://i.ibb.co/LRnqQdp/ilksprint1.png" alt="Sprint 1" width="auto" height="auto">
+- <img src="https://i.ibb.co/WPJpKz1/sprint11.png" alt="Sprint 1" width="auto" height="auto">
+- <img src="https://i.ibb.co/mG10ZJf/sprint1-2.png" alt="Sprint 1" width="auto" height="auto">
+- **Ürün Durumu:**
+- <img src="https://i.ibb.co/kcg22Bt/sprint1-1.gif" alt="Ürün Durumu" width="auto" height="auto">
+- <img src="https://i.ibb.co/rtkWDw1/sprint1-2.gif" alt="Ürün Durumu" width="auto" height="auto">
+- **Sprint Review:** 
+- **Sprint Retrospective:**
