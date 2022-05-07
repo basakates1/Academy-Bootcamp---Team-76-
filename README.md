@@ -34,10 +34,10 @@ Willy's Farm adlı oyunumuz ile insanların boş zamanlarını değerlendirmeler
 
 # Sprint 1
 
-- **Sprint Notları:** User Storyler Product Backlogların detay kısmına yazıldı. User Storyler, backloglara yakınlaştırılınca görülebilir.
+- **Sprint Notları:** User Storyler Backlogların detay kısmına yazıldı. User Storyler, backloglara yakınlaştırılınca görülebilir.
 - **Sprint içinde tamamlanması tahmin edilen puan:** 210
 - **Puan tamamlama mantığı:** Proje boyunca 210 puanlık backlog tamamlanmasına karar verildi. 3 sprint’e bölünce her bir sprint için 70 puanlık backlog tamamlanacak.
-- **Backlog düzeni ve Story seçimleri:** Backloglar, Product ve Sprint Backloglar olarak ikiye ayrıldı. Her bir Sprintte yeni bir Sprint backlogu yazılacak ve Product Backloguyla birlikte her bir sprint backlogu farklı renkle gösterilecek. İlk Sprint backlog rengi sarı, Product Backlog rengi ise mavi. User Storyler Product backlogun detaylar kısmına yazıldı. Tahmin puanları Fibonacci puanlamasıyla verildi ve backlog zorluk dereceleri belirlenirken tshirt size birimi kullanıldı. 
+- **Backlog düzeni ve Story seçimleri:** Backloglar, Product ve Sprint Backloglar olarak ikiye ayrıldı. Her bir Sprintte yeni bir Sprint backlogu yazılacak ve Product Backloguyla birlikte her bir sprint backlogu farklı renkle gösterilecek. İlk Sprint backlog rengi sarı, Product Backlog rengi ise mavi. User Storyler backlogların detaylar kısmına yazıldı. Tahmin puanları Fibonacci puanlamasıyla verildi ve backlog zorluk dereceleri belirlenirken tshirt size birimi kullanıldı. 
 - **Daily Scrum:** Günlük scrumlarin Whatsapp üzerinden yapılmasına karar verildi. Toplantılar ekran görüntüsü olarak paylaşılacaktır. 
 - **Sprint Board Update:** 
 - <img src="https://i.ibb.co/LRnqQdp/ilksprint1.png" alt="Sprint 1" width="auto" height="auto">
