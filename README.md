@@ -40,7 +40,7 @@ Willy's Farm adlı oyunumuz ile insanların boş zamanlarını değerlendirmeler
 - **Backlog düzeni ve Story seçimleri:** Backloglar, Product ve Sprint Backloglar olarak ikiye ayrıldı. Her bir Sprintte yeni bir Sprint backlogu yazılacak ve Product Backloguyla birlikte her bir sprint backlogu farklı renkle gösterilecek. İlk Sprint backlog rengi sarı, Product Backlog rengi ise mavi. User Storyler Product backlogun detaylar kısmına yazıldı. Tahmin puanları Fibonacci puanlamasıyla verildi ve backlog zorluk dereceleri belirlenirken tshirt size birimi kullanıldı. 
 - **Daily Scrum:** Günlük scrumlarin Whatsapp üzerinden yapılmasına karar verildi. Toplantılar ekran görüntüsü olarak paylaşılacaktır. 
 - **Sprint Board Update:** 
-- ![Sprint 1](https://ibb.co/9gsfwHY)
+- <img src="https://i.ibb.co/LRnqQdp/ilksprint1.png" alt="Sprint 1" width="auto" height="auto">
 - 
 - **Ürün Durumu:**
 - **Sprint Review:** 
