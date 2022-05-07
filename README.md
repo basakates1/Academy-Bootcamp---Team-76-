@@ -18,7 +18,7 @@ Willy's Farm
 ## Ürün Açıklaması: 
 Willy's Farm adlı oyunumuz ile insanların boş zamanlarını değerlendirmelerini amaçlıyoruz.
 ## Ürün Özellikleri
-- Kolay level atlanabilir
+- Ana karaktere yön vererek çiftlik hayvanlarını bir yerde toplamak 
 - Oyundaki toplanan paralarla oyun içindeki marketten itemler alınabilir
 - Hızlı ilerleme kaydedilebilir 
 - Kısa oyun oturumu
