@@ -48,3 +48,4 @@ Willy's Farm adlı oyunumuz ile insanların boş zamanlarını değerlendirmeler
 - <img src="https://i.ibb.co/rtkWDw1/sprint1-2.gif" alt="Ürün Durumu" width="auto" height="auto">
 - **Sprint Review:** 
 - **Sprint Retrospective:**
+[Daily Scrum konusmalari](https://github.com/basakates1/Academy-Bootcamp---Team-76-/files/8647004/Gorsel.olarak.oynama.istegi.yaratacak.seviyelerin.tasarlanmis.olmasini.istiyorum.docx)
