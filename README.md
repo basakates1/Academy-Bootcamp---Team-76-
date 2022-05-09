@@ -55,5 +55,7 @@ Willy's Farm adlı oyunumuz ile insanların boş zamanlarını değerlendirmeler
 - **Sprint Retrospective:**
     - Backlog puanlarının ilerleyen zamanlarda tekrar gözden geçirilmesinde karar kılındı. 
     - Prototip için daha çok test yapılmalı.
+- **Diğer Notlar:**
+    - N/A
 
 
