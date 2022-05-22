@@ -58,4 +58,9 @@ Willy's Farm adlı oyunumuz ile insanların boş zamanlarını değerlendirmeler
 - **Diğer Notlar:**
     - N/A
 
+# Sprint 2
 
+- **Sprint Notları:** User Storyler Backlogların detay kısmına yazıldı. User Storyler, backloglara yakınlaştırılınca görülebilir.
+- **Sprint içinde tamamlanması tahmin edilen puan:** 70
+- **Puan tamamlama mantığı:** Proje boyunca 210 puanlık backlog tamamlanmasına karar verildi. 3 sprint’e bölünce her bir sprint için 70 puanlık backlog tamamlanacak.
+- **Backlog düzeni ve Story seçimleri:** Backloglar, Product ve Sprint Backloglar olarak ikiye ayrıldı. Her bir Sprintte yeni bir Sprint backlogu yazılacak ve Product Backloguyla birlikte her bir sprint backlogu farklı renkle gösterilecek. İkinci Sprint backlog rengi mor, Product Backlog rengi ise mavi. User Storyler backlogların detaylar kısmına yazıldı. Tahmin puanları Fibonacci puanlamasıyla verildi ve backlog zorluk dereceleri belirlenirken tshirt size birimi kullanıldı. 
