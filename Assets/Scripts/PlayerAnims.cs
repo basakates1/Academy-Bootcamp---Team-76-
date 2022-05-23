@@ -6,6 +6,7 @@ public class PlayerAnims : MonoBehaviour
 {
     private Rigidbody _rb;
     private Animator _animator;
+    [SerializeField] private VariableJoystick moveJoystick;
 
     void Start()
     {
@@ -16,7 +17,13 @@ public class PlayerAnims : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        _animator.SetFloat("speed", Mathf.Abs(_rb.velocity.x + _rb.velocity.z));
-
+        if (Mathf.Abs(moveJoystick.Horizontal) > 0 || Mathf.Abs(moveJoystick.Vertical) > 0)
+        {
+            _animator.SetBool("isRunning", true);
+        }
+        else
+        {
+            _animator.SetBool("isRunning", false);
+        }
     }
 }
