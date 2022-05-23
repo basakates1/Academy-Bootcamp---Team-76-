@@ -64,3 +64,22 @@ Willy's Farm adlı oyunumuz ile insanların boş zamanlarını değerlendirmeler
 - **Sprint içinde tamamlanması tahmin edilen puan:** 70
 - **Puan tamamlama mantığı:** Proje boyunca 210 puanlık backlog tamamlanmasına karar verildi. 3 sprint’e bölünce her bir sprint için 70 puanlık backlog tamamlanacak.
 - **Backlog düzeni ve Story seçimleri:** Backloglar, Product ve Sprint Backloglar olarak ikiye ayrıldı. Her bir Sprintte yeni bir Sprint backlogu yazılacak ve Product Backloguyla birlikte her bir sprint backlogu farklı renkle gösterilecek. İkinci Sprint backlog rengi mor, Product Backlog rengi ise mavi. User Storyler backlogların detaylar kısmına yazıldı. Tahmin puanları Fibonacci puanlamasıyla verildi ve backlog zorluk dereceleri belirlenirken tshirt size birimi kullanıldı. 
+- **Daily Scrum:** Günlük scrumların Whatsapp ve Discord üzerinden yapılmasına karar verildi. Toplantılar ekran görüntüsü olarak paylaşılacaktır. 
+   - [Sprint 2 Daily Scrum](https://github.com/basakates1/Academy-Bootcamp---Team-76-/files/8755926/dailyscrumsprint2.docx)
+- **Sprint Board Update:** 
+    - <img src="https://i.ibb.co/ZHpR71g/2-sprint1.png" alt="Sprint 2" width="auto" height="auto">
+    - <img src="https://i.ibb.co/r7dTzpW/2-sprint2.png" alt="Sprint 2" width="auto" height="auto">
+    - <img src="https://i.ibb.co/px1gPwS/2-sprint3.png" alt="Sprint 2" width="auto" height="auto">
+- **Ürün Durumu:**
+    - <img src="https://i.ibb.co/wRz1MPC/Sprint2-1.gif" alt="Ürün Durumu" width="auto" height="auto">
+    - <img src="https://i.ibb.co/L8gxRBw/Sprint2-2.gif" alt="Ürün Durumu" width="auto" height="auto">
+- **Sprint Review:** Alınan kararlar:
+    - UI elementlerinin tasarlanması yerine hazır kullanılmasına karar verildi. 
+    - Bu sprint için yeni product backloglar eklendi. 
+    - Level tasarımı için Plastic SCM indirilmesine karar verildi. 
+    - Sprint Review katılımcıları: Başak Ateş, Şeyma Nur Algül, Arda Özkardeşler, Ensar Akdere.
+- **Sprint Retrospective:**
+    - Görev dağılımının daha dengeli olmasına karar verildi.
+    
+    
+
