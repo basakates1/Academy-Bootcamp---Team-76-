@@ -67,6 +67,7 @@ Willy's Farm adlı oyunumuz ile insanların boş zamanlarını değerlendirmeler
 - **Daily Scrum:** Günlük scrumların Whatsapp ve Discord üzerinden yapılmasına karar verildi. Toplantılar ekran görüntüsü olarak paylaşılacaktır. 
    - [Sprint 2 Daily Scrum](https://github.com/basakates1/Academy-Bootcamp---Team-76-/files/8755926/dailyscrumsprint2.docx)
 - **Sprint Board Update:** 
+    - [Miro Sprint Backlog](https://miro.com/app/board/uXjVO4-c5TQ=/)
     - <img src="https://i.ibb.co/ZHpR71g/2-sprint1.png" alt="Sprint 2" width="auto" height="auto">
     - <img src="https://i.ibb.co/r7dTzpW/2-sprint2.png" alt="Sprint 2" width="auto" height="auto">
     - <img src="https://i.ibb.co/px1gPwS/2-sprint3.png" alt="Sprint 2" width="auto" height="auto">
@@ -80,6 +81,6 @@ Willy's Farm adlı oyunumuz ile insanların boş zamanlarını değerlendirmeler
     - Sprint Review katılımcıları: Başak Ateş, Şeyma Nur Algül, Arda Özkardeşler, Ensar Akdere.
 - **Sprint Retrospective:**
     - Görev dağılımının daha dengeli olmasına karar verildi.
-    
+    - Github için bir developer seçildi ve onun pushlamasına karar verildi. Pushlayan kişi commitlerde kodu kimin yazdigini belirtecek.
     
 
