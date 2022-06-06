@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 5015027794779165450}
   - component: {fileID: 5015027794779165449}
   - component: {fileID: 896106710}
+  - component: {fileID: 6706807559885304181}
   m_Layer: 0
   m_Name: Sheep
   m_TagString: Animal
@@ -146,7 +147,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 68191cdb443a2634eb0b6b92a5985918, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.541
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -230,3 +231,19 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &6706807559885304181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5285428143979300852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ca1a19d3a0643f43a2f45a100fcb767, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toplanmaNoktasi: {fileID: 0}
+  speed: 1
+  redMat: {fileID: 2100000, guid: 6322db306317dc24d9e7d6b8ec01448f, type: 2}
+  flashTimer: 0.2

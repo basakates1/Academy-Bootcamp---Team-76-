@@ -634,7 +634,7 @@ GameObject:
   - component: {fileID: 7849676746601625605}
   m_Layer: 0
   m_Name: FarmerColored@T-Pose
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -744,6 +744,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   canVibrate: 1
+  soundOn: 0
   pushForce: 1.5
   other:
   - {fileID: 0}
@@ -778,6 +779,7 @@ MonoBehaviour:
   - {x: 0, y: 0, z: 0}
   - {x: 0, y: 0, z: 0}
   toggleImage: {fileID: 0}
+  soundToggleImage: {fileID: 0}
 --- !u!1 &7199751627999306443
 GameObject:
   m_ObjectHideFlags: 0

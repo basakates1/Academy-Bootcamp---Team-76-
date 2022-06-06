@@ -5,6 +5,14 @@ TagManager:
   serializedVersion: 2
   tags:
   - Animal
+  - FinishLine
+  - ToplanmaNoktasi
+  - Wolf
+  - Trap
+  - Cactus
+  - FxTemporaire
+  - WolfSpawn
+  - Music
   layers:
   - Default
   - TransparentFX

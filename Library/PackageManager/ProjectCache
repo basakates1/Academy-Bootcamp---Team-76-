@@ -5,27 +5,173 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637877776080361581
-    m_Hash: 3514944958
+      ticks: 637897938012099390
+    m_Hash: 543225462
   m_LockFileStatus:
     m_FilePath: D:/SheepGame/Academy-Bootcamp---Team-76-/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637877776080976552
-    m_Hash: 3518015605
+      ticks: 637897938012689634
+    m_Hash: 368412710
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
-    - packageId: com.unity.collab-proxy@1.9.0
+    - packageId: com.unity.ads@4.2.1
       testable: 0
       isDirectDependency: 1
-      version: 1.9.0
+      version: 4.2.1
       source: 1
-      resolvedPath: D:\SheepGame\Academy-Bootcamp---Team-76-\Library\PackageCache\com.unity.collab-proxy@1.9.0
+      resolvedPath: D:\SheepGame\Academy-Bootcamp---Team-76-\Library\PackageCache\com.unity.ads@4.2.1
+      assetPath: Packages/com.unity.ads
+      name: com.unity.ads
+      displayName: Advertisement
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: Unity Ads is a video ad network for iOS and Android that allows
+        you to quickly and effectively monetize your games.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 0.0.3
+        - 0.0.4
+        - 0.0.5
+        - 0.0.6
+        - 0.0.7
+        - 0.0.8
+        - 0.0.10
+        - 0.0.11
+        - 0.0.12
+        - 0.0.13
+        - 0.0.14
+        - 0.0.15
+        - 0.0.16
+        - 2.0.0
+        - 2.0.3
+        - 2.0.4
+        - 2.0.7
+        - 2.0.8
+        - 2.3.1
+        - 2.3.2
+        - 3.0.1
+        - 3.0.2
+        - 3.0.3
+        - 3.1.1
+        - 3.2.0
+        - 3.3.0
+        - 3.3.1
+        - 3.4.0
+        - 3.4.1
+        - 3.4.2
+        - 3.4.4
+        - 3.4.5
+        - 3.4.7
+        - 3.4.9
+        - 3.5.0
+        - 3.5.2
+        - 3.6.1
+        - 3.7.0
+        - 3.7.1
+        - 3.7.3
+        - 3.7.5
+        - 4.0.0
+        - 4.0.1
+        - 4.1.0
+        - 4.2.1
+        compatible:
+        - 0.0.3
+        - 0.0.4
+        - 0.0.5
+        - 0.0.6
+        - 0.0.7
+        - 0.0.8
+        - 0.0.10
+        - 0.0.11
+        - 0.0.12
+        - 0.0.13
+        - 0.0.14
+        - 0.0.15
+        - 0.0.16
+        - 2.0.0
+        - 2.0.3
+        - 2.0.4
+        - 2.0.7
+        - 2.0.8
+        - 2.3.1
+        - 2.3.2
+        - 3.0.1
+        - 3.0.2
+        - 3.0.3
+        - 3.1.1
+        - 3.2.0
+        - 3.3.0
+        - 3.3.1
+        - 3.4.0
+        - 3.4.1
+        - 3.4.2
+        - 3.4.4
+        - 3.4.5
+        - 3.4.7
+        - 3.4.9
+        - 3.5.0
+        - 3.5.2
+        - 3.6.1
+        - 3.7.0
+        - 3.7.1
+        - 3.7.3
+        - 3.7.5
+        - 4.0.0
+        - 4.0.1
+        - 4.1.0
+        - 4.2.1
+        verified: 3.7.5
+      dependencies:
+      - name: com.unity.ugui
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.ugui
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      keywords:
+      - ads
+      - unity
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637885795760000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.com/Unity-Technologies/unity-ads-sdk.git
+        revision: 2394887e7494a4c082ca090c392bf622ca3f58a9
+        path: 
+    - packageId: com.unity.collab-proxy@1.15.1
+      testable: 0
+      isDirectDependency: 1
+      version: 1.15.1
+      source: 1
+      resolvedPath: D:\SheepGame\Academy-Bootcamp---Team-76-\Library\PackageCache\com.unity.collab-proxy@1.15.1
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Version Control
@@ -79,6 +225,7 @@ m_PackageAssets:
         - 1.14.15
         - 1.14.16
         - 1.14.17
+        - 1.14.18
         - 1.15.1
         - 1.15.4
         - 1.15.7
@@ -88,6 +235,7 @@ m_PackageAssets:
         - 1.15.15
         - 1.15.16
         - 1.15.17
+        - 1.15.18
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -113,6 +261,7 @@ m_PackageAssets:
         - 1.14.15
         - 1.14.16
         - 1.14.17
+        - 1.14.18
         - 1.15.1
         - 1.15.4
         - 1.15.7
@@ -122,6 +271,7 @@ m_PackageAssets:
         - 1.15.15
         - 1.15.16
         - 1.15.17
+        - 1.15.18
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -133,8 +283,18 @@ m_PackageAssets:
         - 2.1.0-preview.5
         - 2.1.0-preview.6
         verified: 1.9.0
-      dependencies: []
-      resolvedDependencies: []
+      dependencies:
+      - name: com.unity.nuget.newtonsoft-json
+        version: 2.0.0
+      - name: com.unity.services.core
+        version: 1.0.1
+      resolvedDependencies:
+      - name: com.unity.nuget.newtonsoft-json
+        version: 2.0.0
+      - name: com.unity.services.core
+        version: 1.0.1
+      - name: com.unity.modules.unitywebrequest
+        version: 1.0.0
       keywords:
       - backup
       - cloud
@@ -161,13 +321,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637637594290000000
+      datePublishedTicks: 637705007780000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-        revision: 51447944a1e7d94937e6b7f9e887d58f5097ed13
+        revision: 44478cbd3117b13beac17ff868e64d0aed5c4071
         path: 
     - packageId: com.unity.ide.rider@2.0.7
       testable: 0
@@ -2752,6 +2912,165 @@ m_PackageAssets:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ext.nunit.git
         revision: 29ea4d6504a5f58fb3a6934db839aa80ae6d9d88
+        path: 
+    - packageId: com.unity.nuget.newtonsoft-json@2.0.0
+      testable: 0
+      isDirectDependency: 0
+      version: 2.0.0
+      source: 1
+      resolvedPath: D:\SheepGame\Academy-Bootcamp---Team-76-\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
+      assetPath: Packages/com.unity.nuget.newtonsoft-json
+      name: com.unity.nuget.newtonsoft-json
+      displayName: Newtonsoft Json
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: 'Newtonsoft Json for use in Unity projects and Unity packages.
+        Currently synced to version 12.0.2.
+
+
+        This package is used for advanced
+        json serialization and deserialization. Most Unity users will be better suited
+        using the existing json tools built into Unity.
+
+        To avoid assembly
+        clashes, please use this package if you intend to use Newtonsoft Json.'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0-preview.2
+        - 1.0.0-preview.3
+        - 1.0.0-preview.4
+        - 1.0.1-preview.1
+        - 1.1.2
+        - 2.0.0-preview
+        - 2.0.0-preview.1
+        - 2.0.0-preview.2
+        - 2.0.0
+        - 2.0.1-preview.1
+        - 2.0.2
+        - 3.0.1
+        - 3.0.2
+        compatible:
+        - 1.0.0-preview.2
+        - 1.0.0-preview.3
+        - 1.0.0-preview.4
+        - 1.0.1-preview.1
+        - 1.1.2
+        - 2.0.0-preview
+        - 2.0.0-preview.1
+        - 2.0.0-preview.2
+        - 2.0.0
+        - 2.0.1-preview.1
+        - 2.0.2
+        - 3.0.1
+        - 3.0.2
+        verified: 2.0.2
+      dependencies: []
+      resolvedDependencies: []
+      keywords: []
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637237898320000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
+        revision: d2fd6ed876261bbd82f59199ad711e7667bf633a
+        path: 
+    - packageId: com.unity.services.core@1.0.1
+      testable: 0
+      isDirectDependency: 0
+      version: 1.0.1
+      source: 1
+      resolvedPath: D:\SheepGame\Academy-Bootcamp---Team-76-\Library\PackageCache\com.unity.services.core@1.0.1
+      assetPath: Packages/com.unity.services.core
+      name: com.unity.services.core
+      displayName: Services Core
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: 'This package defines common components used by multiple Game
+        Service packages.
+
+        These are standardized and aim to unify the overall
+        experience of working with Game Services packages.'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.1
+        - 1.1.0-pre.7
+        - 1.1.0-pre.8
+        - 1.1.0-pre.9
+        - 1.1.0-pre.10
+        - 1.1.0-pre.11
+        - 1.1.0-pre.41
+        - 1.1.0-pre.69
+        - 1.2.0
+        - 1.3.1
+        - 1.3.2
+        - 1.4.0
+        - 1.4.1
+        compatible:
+        - 1.0.1
+        - 1.1.0-pre.7
+        - 1.1.0-pre.8
+        - 1.1.0-pre.9
+        - 1.1.0-pre.10
+        - 1.1.0-pre.11
+        - 1.1.0-pre.41
+        - 1.1.0-pre.69
+        - 1.2.0
+        - 1.3.1
+        - 1.3.2
+        - 1.4.0
+        - 1.4.1
+        verified: 1.0.1
+      dependencies:
+      - name: com.unity.modules.unitywebrequest
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.modules.unitywebrequest
+        version: 1.0.0
+      keywords: []
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637604883250000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
+        revision: 4cd880d4fd5c60597629249bf4f324e4c8d7aa2e
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []

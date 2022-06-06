@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerJoystickController : MonoBehaviour
 {
     public VariableJoystick moveJoystick;
-    [SerializeField] float speed = 0.05f;
+    public float speed = 0.05f;
     void Update()
     {
         UpdateMoveJoystick();

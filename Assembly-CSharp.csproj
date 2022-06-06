@@ -38,19 +38,73 @@
   <ItemGroup>
      <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\DynamicJoystick.cs" />
      <Compile Include="Assets\Scripts\SettingsAnimController.cs" />
+     <Compile Include="Assets\Scripts\CactusCollision.cs" />
      <Compile Include="Assets\Joystick Pack\Scripts\Base\Joystick.cs" />
      <Compile Include="Assets\Scripts\PlayerAnims.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX\Scripts\CFX_LightIntensityFade.cs" />
+     <Compile Include="Assets\Scripts\Collide.cs" />
+     <Compile Include="Assets\Lincolncpp\HUD Indicator\Scripts\Components\OffScreen\IndicatorOffScreen.cs" />
      <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs" />
+     <Compile Include="Assets\Scripts\SceneTracker.cs" />
+     <Compile Include="Assets\Scripts\AdsInitializer.cs" />
      <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs" />
+     <Compile Include="Assets\Lincolncpp\HUD Indicator\Scripts\Components\OffScreen\IndicatorCanvasOffScreen.cs" />
      <Compile Include="Assets\Scripts\RestartLevel.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX\Scripts\CFX_AutoRotate.cs" />
+     <Compile Include="Assets\Lincolncpp\HUD Indicator\Scripts\IndicatorRenderer.cs" />
+     <Compile Include="Assets\Scripts\CoinScript.cs" />
+     <Compile Include="Assets\Lincolncpp\HUD Indicator\Scripts\Components\OnScreen\IndicatorCanvasOnScreen.cs" />
+     <Compile Include="Assets\Scripts\ShopCoinScript.cs" />
+     <Compile Include="Assets\Scripts\WolfScript.cs" />
      <Compile Include="Assets\Joystick Pack\Examples\JoystickSetterExample.cs" />
+     <Compile Include="Assets\Lincolncpp\HUD Indicator\Scripts\Indicator.cs" />
+     <Compile Include="Assets\Scripts\ShopRewardedAds.cs" />
+     <Compile Include="Assets\Scripts\AdsInitializerShop.cs" />
+     <Compile Include="Assets\Lincolncpp\HUD Indicator\Demo\Scripts\Rotate.cs" />
+     <Compile Include="Assets\Scripts\HomeButtonScript.cs" />
+     <Compile Include="Assets\Scripts\AnimalFinishLine.cs" />
+     <Compile Include="Assets\Lincolncpp\HUD Indicator\Scripts\IndicatorCanvas.cs" />
      <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs" />
+     <Compile Include="Assets\Scripts\PowerUpScript.cs" />
+     <Compile Include="Assets\Lincolncpp\HUD Indicator\Scripts\Components\OnScreen\IndicatorOnScreen.cs" />
      <Compile Include="Assets\Scripts\LevelLoader.cs" />
+     <Compile Include="Assets\Lincolncpp\HUD Indicator\Scripts\Styles\IndicatorIconStyle.cs" />
      <Compile Include="Assets\Joystick Pack\Examples\JoystickPlayerExample.cs" />
+     <Compile Include="Assets\Scripts\RewardedAdsButton.cs" />
+     <Compile Include="Assets\Lincolncpp\HUD Indicator\Scripts\Styles\IndicatorArrowStyle.cs" />
      <Compile Include="Assets\Scripts\PlayerJoystickController.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX\Scripts\CFX_LightFlicker.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX\Scripts\CFX_AutoDestructShuriken.cs" />
      <Compile Include="Assets\Scripts\Interaction.cs" />
      <Compile Include="Assets\Scripts\ScoreScript.cs" />
      <Compile Include="Assets\Scripts\CameraFollow.cs" />
+     <Compile Include="Assets\Scripts\GameMusic.cs" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+     <None Include="Assets\JMO Assets\Cartoon FX\Shaders\CFX3 Multiply Color.shader" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+     <None Include="Assets\JMO Assets\Cartoon FX\CartoonFX Free.txt" />
+     <None Include="Assets\Lincolncpp\HUD Indicator\Demo\Textures\credits.txt" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+     <None Include="Assets\JMO Assets\Cartoon FX Easy Editor\CartoonFX Easy Editor Readme.txt" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+     <None Include="Assets\JMO Assets\Cartoon FX\Shaders\CFXM_MobileParticleAdd_Alpha8.shader" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
     <Reference Include="UnityEngine">
         <HintPath>D:\Program Files\Unity\Hub\Editor\2020.3.19f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
@@ -263,6 +317,9 @@
     </Reference>
     <Reference Include="UnityEditor.UnityConnectModule">
         <HintPath>D:\Program Files\Unity\Hub\Editor\2020.3.19f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+        <HintPath>D:\SheepGame\Academy-Bootcamp---Team-76-\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
         <HintPath>D:\Program Files\Unity\Hub\Editor\2020.3.19f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -633,6 +690,9 @@
     <Reference Include="Unity.TextMeshPro">
         <HintPath>D:\SheepGame\Academy-Bootcamp---Team-76-\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.Advertisements">
+        <HintPath>D:\SheepGame\Academy-Bootcamp---Team-76-\Library\ScriptAssemblies\UnityEngine.Advertisements.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.UI">
         <HintPath>D:\SheepGame\Academy-Bootcamp---Team-76-\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
@@ -641,6 +701,9 @@
     </Reference>
     <Reference Include="Unity.Rider.Editor">
         <HintPath>D:\SheepGame\Academy-Bootcamp---Team-76-\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Advertisements.Editor">
+        <HintPath>D:\SheepGame\Academy-Bootcamp---Team-76-\Library\ScriptAssemblies\UnityEngine.Advertisements.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
         <HintPath>D:\SheepGame\Academy-Bootcamp---Team-76-\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>

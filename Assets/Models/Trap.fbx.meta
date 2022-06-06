@@ -1,0 +1,1109 @@
+fileFormatVersion: 2
+guid: bd5fdecd87e04204d9a7f801ffde91b9
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 6495937392315838758
+    second: "Sa\u011F Kol|Action"
+  - first:
+      74: 311445101430614541
+    second: "Sa\u011F Kol|Action.001"
+  - first:
+      74: 2767915744352929197
+    second: "Sa\u011F Kol|Action.002"
+  - first:
+      74: -6960618455008874340
+    second: "Sa\u011F Kol|Action.003"
+  - first:
+      74: 5514831313845678531
+    second: "Sa\u011F Kol|CubeAction"
+  - first:
+      74: -7362033590042153185
+    second: "Sa\u011F Kol|CubeAction.001"
+  - first:
+      74: -1809842263573439026
+    second: "Sa\u011F Kol|CubeAction.002"
+  - first:
+      74: 5996193704650478361
+    second: "Sa\u011F Kol|Orta S\u0130lindirAction"
+  - first:
+      74: -5831073350073816306
+    second: "Sa\u011F Kol|Orta S\u0130lindirAction.001"
+  - first:
+      74: -4374571300450588724
+    second: "Sa\u011F Kol|Orta S\u0130lindirAction.002"
+  - first:
+      74: 3012225641551383658
+    second: "Sa\u011F Kol|Orta Yuvarlak|Orta Yuvarlak|Orta YuvarlakAction|Orta Yuvarl"
+  - first:
+      74: 8603186853677300413
+    second: "Sa\u011F Kol|Orta Yuvarlak|Orta Yuvarlak|Orta YuvarlakAction|Orta Yuvarlak|O"
+  - first:
+      74: -300237264825465200
+    second: "Sa\u011F Kol|Orta Yuvarlak|Orta Yuvarlak|Sa\u011F KolAction|Orta Yuvarlak|Sa"
+  - first:
+      74: -5840547665605997002
+    second: "Sa\u011F Kol|Orta Yuvarlak|Orta Yuvarlak|Sa\u011F KolAction|Orta Yuvarlak|Sa\u011F
+      K"
+  - first:
+      74: -82236997811013796
+    second: "Sa\u011F Kol|Orta Yuvarlak|Orta Yuvarlak|Sol KolAction|Orta Yuvarlak|Sol"
+  - first:
+      74: 6432878543994593389
+    second: "Sa\u011F Kol|Orta Yuvarlak|Orta Yuvarlak|Sol KolAction|Orta Yuvarlak|Sol
+      Kol"
+  - first:
+      74: 8061250145430018091
+    second: "Sa\u011F Kol|Sa\u011F KolAction"
+  - first:
+      74: 2723843446071486541
+    second: "Sa\u011F Kol|Sa\u011F KolAction.001"
+  - first:
+      74: -4091009878880945149
+    second: "Sa\u011F Kol|Sa\u011F KolAction.002"
+  - first:
+      74: 1584601868823170018
+    second: "Sa\u011F Kol|Sa\u011F KolAction.003"
+  - first:
+      74: -5007150359480144178
+    second: "Sa\u011F Kol|Sa\u011F KolAction.004"
+  - first:
+      74: 1947067002638963369
+    second: "Sa\u011F Kol|Sa\u011F KolAction.005"
+  - first:
+      74: 3165670027496481655
+    second: "Sa\u011F Kol|Sa\u011F KolAction.006"
+  - first:
+      74: 674395426494993739
+    second: "Sa\u011F Kol|Sa\u011F Kol|Sa\u011F Kol|Orta YuvarlakAction|Sa\u011F
+      Kol|Orta Yuvarla"
+  - first:
+      74: -4411260065963110441
+    second: "Sa\u011F Kol|Sa\u011F Kol|Sa\u011F Kol|Orta YuvarlakAction|Sa\u011F
+      Kol|Orta Yuvarla.001"
+  - first:
+      74: -5558503970356670846
+    second: "Sa\u011F Kol|Sa\u011F Kol|Sa\u011F Kol|Orta YuvarlakAction|Sa\u011F
+      Kol|Orta YuvarlakAct"
+  - first:
+      74: 916666142824999915
+    second: "Sa\u011F Kol|Sa\u011F Kol|Sa\u011F Kol|Sa\u011F KolAction|Sa\u011F Kol|Sa\u011F
+      KolAction"
+  - first:
+      74: 5332154908927595969
+    second: "Sa\u011F Kol|Sa\u011F Kol|Sa\u011F Kol|Sa\u011F KolAction|Sa\u011F Kol|Sa\u011F
+      KolAction.001"
+  - first:
+      74: -6053788151115399085
+    second: "Sa\u011F Kol|Sa\u011F Kol|Sa\u011F Kol|Sol KolAction|Sa\u011F Kol|Sol
+      KolAction"
+  - first:
+      74: -7986048157623576791
+    second: "Sa\u011F Kol|Sa\u011F Kol|Sa\u011F Kol|Sol KolAction|Sa\u011F Kol|Sol
+      KolAction.001"
+  - first:
+      74: 1551515887428218404
+    second: "Sa\u011F Kol|Sol KolAction"
+  - first:
+      74: 3449220204287242629
+    second: "Sa\u011F Kol|Sol KolAction.001"
+  - first:
+      74: 4236789506262675331
+    second: "Sa\u011F Kol|Sol KolAction.002"
+  - first:
+      74: 7020120678607376428
+    second: "Sa\u011F Kol|Sol KolAction.003"
+  - first:
+      74: -4144498123075408126
+    second: "Sa\u011F Kol|Sol KolAction.004"
+  - first:
+      74: 5709092597038419505
+    second: "Sa\u011F Kol|Sol Kol|Sol Kol|Orta YuvarlakAction|Sol Kol|Orta YuvarlakAc"
+  - first:
+      74: -8689648699275881607
+    second: "Sa\u011F Kol|Sol Kol|Sol Kol|Orta YuvarlakAction|Sol Kol|Orta YuvarlakAction"
+  - first:
+      74: 3901951252380277619
+    second: "Sa\u011F Kol|Sol Kol|Sol Kol|Sa\u011F KolAction|Sol Kol|Sa\u011F KolAction"
+  - first:
+      74: -8548075757316783478
+    second: "Sa\u011F Kol|Sol Kol|Sol Kol|Sa\u011F KolAction|Sol Kol|Sa\u011F KolAction.001"
+  - first:
+      74: 8382453359062710696
+    second: "Sa\u011F Kol|Sol Kol|Sol Kol|Sol KolAction|Sol Kol|Sol KolAction"
+  - first:
+      74: -6249382177669589091
+    second: "Sa\u011F Kol|Sol Kol|Sol Kol|Sol KolAction|Sol Kol|Sol KolAction.001"
+  - first:
+      74: 988436439336775233
+    second: "Sa\u011F Kol|\xC7ivi 1Action"
+  - first:
+      74: 649331375228042894
+    second: "Sa\u011F Kol|\xC7ivi 1Action.001"
+  - first:
+      74: 8688415431973772278
+    second: "Sa\u011F Kol|\xC7ivi 1Action.002"
+  - first:
+      74: 3948963785645676751
+    second: "Sa\u011F Kol|\xC7ivi 2Action"
+  - first:
+      74: 5799235364003575629
+    second: "Sa\u011F Kol|\xC7ivi 2Action.001"
+  - first:
+      74: -2042498417597031450
+    second: "Sa\u011F Kol|\xC7ivi 2Action.002"
+  - first:
+      74: -6855989949963739660
+    second: "Sa\u011F Kol|\xC7ivi 3Action"
+  - first:
+      74: -8171166775339001396
+    second: "Sa\u011F Kol|\xC7ivi 3Action.001"
+  - first:
+      74: -6106770362178560953
+    second: "Sa\u011F Kol|\xC7ivi 3Action.002"
+  - first:
+      74: 5952984242042382509
+    second: "Sa\u011F Kol|\xC7ivi 4Action"
+  - first:
+      74: 313017238411039252
+    second: "Sa\u011F Kol|\xC7ivi 4Action.001"
+  - first:
+      74: -8537200003703606510
+    second: "Sa\u011F Kol|\xC7ivi 4Action.002"
+  - first:
+      74: 5901245856810061598
+    second: "Orta S\u0130lindir|Action"
+  - first:
+      74: 6924527218560655955
+    second: "Orta S\u0130lindir|Action.001"
+  - first:
+      74: -6368410593843823723
+    second: "Orta S\u0130lindir|Action.002"
+  - first:
+      74: 756985390579748172
+    second: "Orta S\u0130lindir|Action.003"
+  - first:
+      74: -1291781888110781776
+    second: "Orta S\u0130lindir|CubeAction"
+  - first:
+      74: 6526043995527675841
+    second: "Orta S\u0130lindir|CubeAction.001"
+  - first:
+      74: -3145752985077801150
+    second: "Orta S\u0130lindir|CubeAction.002"
+  - first:
+      74: -6693338385159229878
+    second: "Orta S\u0130lindir|Orta S\u0130lindirAction"
+  - first:
+      74: -615357697952355743
+    second: "Orta S\u0130lindir|Orta S\u0130lindirAction.001"
+  - first:
+      74: 3698548494795506043
+    second: "Orta S\u0130lindir|Orta S\u0130lindirAction.002"
+  - first:
+      74: -3003146747766363940
+    second: "Orta S\u0130lindir|Orta Yuvarlak|Orta Yuvarlak|Orta YuvarlakAction|Orta
+      Yuvarl"
+  - first:
+      74: 736800885555494076
+    second: "Orta S\u0130lindir|Orta Yuvarlak|Orta Yuvarlak|Orta YuvarlakAction|Orta
+      Yuvarlak|O"
+  - first:
+      74: 5346287237966330242
+    second: "Orta S\u0130lindir|Orta Yuvarlak|Orta Yuvarlak|Sa\u011F KolAction|Orta
+      Yuvarlak|Sa"
+  - first:
+      74: -4978064409867147034
+    second: "Orta S\u0130lindir|Orta Yuvarlak|Orta Yuvarlak|Sa\u011F KolAction|Orta
+      Yuvarlak|Sa\u011F K"
+  - first:
+      74: 2058053916781112726
+    second: "Orta S\u0130lindir|Orta Yuvarlak|Orta Yuvarlak|Sol KolAction|Orta Yuvarlak|Sol"
+  - first:
+      74: -7267611564627685770
+    second: "Orta S\u0130lindir|Orta Yuvarlak|Orta Yuvarlak|Sol KolAction|Orta Yuvarlak|Sol
+      Kol"
+  - first:
+      74: -1655800074964425844
+    second: "Orta S\u0130lindir|Sa\u011F KolAction"
+  - first:
+      74: 2916551101665167551
+    second: "Orta S\u0130lindir|Sa\u011F KolAction.001"
+  - first:
+      74: -5385394500511168733
+    second: "Orta S\u0130lindir|Sa\u011F KolAction.002"
+  - first:
+      74: 1659952459531520791
+    second: "Orta S\u0130lindir|Sa\u011F KolAction.003"
+  - first:
+      74: -8151349889725551007
+    second: "Orta S\u0130lindir|Sa\u011F KolAction.004"
+  - first:
+      74: -7310925331189132760
+    second: "Orta S\u0130lindir|Sa\u011F KolAction.005"
+  - first:
+      74: -4436310339367104601
+    second: "Orta S\u0130lindir|Sa\u011F KolAction.006"
+  - first:
+      74: -6758529636910922368
+    second: "Orta S\u0130lindir|Sa\u011F Kol|Sa\u011F Kol|Orta YuvarlakAction|Sa\u011F
+      Kol|Orta Yuvarla"
+  - first:
+      74: -5924512789228633889
+    second: "Orta S\u0130lindir|Sa\u011F Kol|Sa\u011F Kol|Orta YuvarlakAction|Sa\u011F
+      Kol|Orta Yuvarla.001"
+  - first:
+      74: 4938697877012685251
+    second: "Orta S\u0130lindir|Sa\u011F Kol|Sa\u011F Kol|Orta YuvarlakAction|Sa\u011F
+      Kol|Orta YuvarlakAct"
+  - first:
+      74: -1256715266585127378
+    second: "Orta S\u0130lindir|Sa\u011F Kol|Sa\u011F Kol|Sa\u011F KolAction|Sa\u011F
+      Kol|Sa\u011F KolAction"
+  - first:
+      74: -6012775364595663140
+    second: "Orta S\u0130lindir|Sa\u011F Kol|Sa\u011F Kol|Sa\u011F KolAction|Sa\u011F
+      Kol|Sa\u011F KolAction.001"
+  - first:
+      74: 102926096872120695
+    second: "Orta S\u0130lindir|Sa\u011F Kol|Sa\u011F Kol|Sol KolAction|Sa\u011F
+      Kol|Sol KolAction"
+  - first:
+      74: -3925591870774047225
+    second: "Orta S\u0130lindir|Sa\u011F Kol|Sa\u011F Kol|Sol KolAction|Sa\u011F
+      Kol|Sol KolAction.001"
+  - first:
+      74: -7730353730431664247
+    second: "Orta S\u0130lindir|Sol KolAction"
+  - first:
+      74: 1002336339469032267
+    second: "Orta S\u0130lindir|Sol KolAction.001"
+  - first:
+      74: -2395854618926890888
+    second: "Orta S\u0130lindir|Sol KolAction.002"
+  - first:
+      74: 6680653685207838351
+    second: "Orta S\u0130lindir|Sol KolAction.003"
+  - first:
+      74: 8972801257585363257
+    second: "Orta S\u0130lindir|Sol KolAction.004"
+  - first:
+      74: -1674366186710307558
+    second: "Orta S\u0130lindir|Sol Kol|Sol Kol|Orta YuvarlakAction|Sol Kol|Orta
+      YuvarlakAc"
+  - first:
+      74: 2543024551997070911
+    second: "Orta S\u0130lindir|Sol Kol|Sol Kol|Orta YuvarlakAction|Sol Kol|Orta
+      YuvarlakAction"
+  - first:
+      74: 3555112233565689682
+    second: "Orta S\u0130lindir|Sol Kol|Sol Kol|Sa\u011F KolAction|Sol Kol|Sa\u011F
+      KolAction"
+  - first:
+      74: 449075230525020218
+    second: "Orta S\u0130lindir|Sol Kol|Sol Kol|Sa\u011F KolAction|Sol Kol|Sa\u011F
+      KolAction.001"
+  - first:
+      74: 439836414257393197
+    second: "Orta S\u0130lindir|Sol Kol|Sol Kol|Sol KolAction|Sol Kol|Sol KolAction"
+  - first:
+      74: 3858420395880062152
+    second: "Orta S\u0130lindir|Sol Kol|Sol Kol|Sol KolAction|Sol Kol|Sol KolAction.001"
+  - first:
+      74: 6477242088535765842
+    second: "Orta S\u0130lindir|\xC7ivi 1Action"
+  - first:
+      74: -5741532972013268288
+    second: "Orta S\u0130lindir|\xC7ivi 1Action.001"
+  - first:
+      74: -425493370706503291
+    second: "Orta S\u0130lindir|\xC7ivi 1Action.002"
+  - first:
+      74: 6482076599203944482
+    second: "Orta S\u0130lindir|\xC7ivi 2Action"
+  - first:
+      74: 1590738740809277354
+    second: "Orta S\u0130lindir|\xC7ivi 2Action.001"
+  - first:
+      74: -707386713234511979
+    second: "Orta S\u0130lindir|\xC7ivi 2Action.002"
+  - first:
+      74: -5107826292977811915
+    second: "Orta S\u0130lindir|\xC7ivi 3Action"
+  - first:
+      74: 1972604668746548773
+    second: "Orta S\u0130lindir|\xC7ivi 3Action.001"
+  - first:
+      74: -1921086479727826895
+    second: "Orta S\u0130lindir|\xC7ivi 3Action.002"
+  - first:
+      74: 7134493373991206262
+    second: "Orta S\u0130lindir|\xC7ivi 4Action"
+  - first:
+      74: -2814787716112995580
+    second: "Orta S\u0130lindir|\xC7ivi 4Action.001"
+  - first:
+      74: -3729217351869463183
+    second: "Orta S\u0130lindir|\xC7ivi 4Action.002"
+  - first:
+      74: -2117126072352753793
+    second: Orta Yuvarlak|Action
+  - first:
+      74: -834219674153335563
+    second: Orta Yuvarlak|Action.001
+  - first:
+      74: 6022755955971157790
+    second: Orta Yuvarlak|Action.002
+  - first:
+      74: -1498124911895617936
+    second: Orta Yuvarlak|Action.003
+  - first:
+      74: -6293752002599017923
+    second: Orta Yuvarlak|CubeAction
+  - first:
+      74: -198045298576018198
+    second: Orta Yuvarlak|CubeAction.001
+  - first:
+      74: 2336933141153777517
+    second: Orta Yuvarlak|CubeAction.002
+  - first:
+      74: -3554253252127303956
+    second: "Orta Yuvarlak|Orta S\u0130lindirAction"
+  - first:
+      74: -4422571490598494357
+    second: "Orta Yuvarlak|Orta S\u0130lindirAction.001"
+  - first:
+      74: 4957099637717649774
+    second: "Orta Yuvarlak|Orta S\u0130lindirAction.002"
+  - first:
+      74: 6220025489150230072
+    second: Orta Yuvarlak|Orta Yuvarlak|Orta Yuvarlak|Orta YuvarlakAction|Orta Yuvarl
+  - first:
+      74: 9018290100643646959
+    second: Orta Yuvarlak|Orta Yuvarlak|Orta Yuvarlak|Orta YuvarlakAction|Orta Yuvarlak|O
+  - first:
+      74: 4095657353235198661
+    second: "Orta Yuvarlak|Orta Yuvarlak|Orta Yuvarlak|Sa\u011F KolAction|Orta Yuvarlak|Sa"
+  - first:
+      74: -169864060223459300
+    second: "Orta Yuvarlak|Orta Yuvarlak|Orta Yuvarlak|Sa\u011F KolAction|Orta Yuvarlak|Sa\u011F
+      K"
+  - first:
+      74: -1570596997475329114
+    second: Orta Yuvarlak|Orta Yuvarlak|Orta Yuvarlak|Sol KolAction|Orta Yuvarlak|Sol
+  - first:
+      74: 5673999348035409222
+    second: Orta Yuvarlak|Orta Yuvarlak|Orta Yuvarlak|Sol KolAction|Orta Yuvarlak|Sol
+      Kol
+  - first:
+      74: 1402079686452952965
+    second: "Orta Yuvarlak|Sa\u011F KolAction"
+  - first:
+      74: 114543904950532270
+    second: "Orta Yuvarlak|Sa\u011F KolAction.001"
+  - first:
+      74: -6609977144010001577
+    second: "Orta Yuvarlak|Sa\u011F KolAction.002"
+  - first:
+      74: -8910534415549168426
+    second: "Orta Yuvarlak|Sa\u011F KolAction.003"
+  - first:
+      74: -6925655424118233337
+    second: "Orta Yuvarlak|Sa\u011F KolAction.004"
+  - first:
+      74: 3657720295920206459
+    second: "Orta Yuvarlak|Sa\u011F KolAction.005"
+  - first:
+      74: 361290510127953894
+    second: "Orta Yuvarlak|Sa\u011F KolAction.006"
+  - first:
+      74: 9125359985095786630
+    second: "Orta Yuvarlak|Sa\u011F Kol|Sa\u011F Kol|Orta YuvarlakAction|Sa\u011F
+      Kol|Orta Yuvarla"
+  - first:
+      74: -6663955050566683481
+    second: "Orta Yuvarlak|Sa\u011F Kol|Sa\u011F Kol|Orta YuvarlakAction|Sa\u011F
+      Kol|Orta Yuvarla.001"
+  - first:
+      74: 214316358557638475
+    second: "Orta Yuvarlak|Sa\u011F Kol|Sa\u011F Kol|Orta YuvarlakAction|Sa\u011F
+      Kol|Orta YuvarlakAct"
+  - first:
+      74: 3479169327235022009
+    second: "Orta Yuvarlak|Sa\u011F Kol|Sa\u011F Kol|Sa\u011F KolAction|Sa\u011F
+      Kol|Sa\u011F KolAction"
+  - first:
+      74: 7555811726008220539
+    second: "Orta Yuvarlak|Sa\u011F Kol|Sa\u011F Kol|Sa\u011F KolAction|Sa\u011F
+      Kol|Sa\u011F KolAction.001"
+  - first:
+      74: -429640729206471596
+    second: "Orta Yuvarlak|Sa\u011F Kol|Sa\u011F Kol|Sol KolAction|Sa\u011F Kol|Sol
+      KolAction"
+  - first:
+      74: -5521314658362784244
+    second: "Orta Yuvarlak|Sa\u011F Kol|Sa\u011F Kol|Sol KolAction|Sa\u011F Kol|Sol
+      KolAction.001"
+  - first:
+      74: 4986613992292271250
+    second: Orta Yuvarlak|Sol KolAction
+  - first:
+      74: 3799754977217242239
+    second: Orta Yuvarlak|Sol KolAction.001
+  - first:
+      74: -6368562521515581175
+    second: Orta Yuvarlak|Sol KolAction.002
+  - first:
+      74: -2088966095377710990
+    second: Orta Yuvarlak|Sol KolAction.003
+  - first:
+      74: -2863539143987592595
+    second: Orta Yuvarlak|Sol KolAction.004
+  - first:
+      74: -2470028713181663774
+    second: Orta Yuvarlak|Sol Kol|Sol Kol|Orta YuvarlakAction|Sol Kol|Orta YuvarlakAc
+  - first:
+      74: 1701806506548051752
+    second: Orta Yuvarlak|Sol Kol|Sol Kol|Orta YuvarlakAction|Sol Kol|Orta YuvarlakAction
+  - first:
+      74: -5492188085560638417
+    second: "Orta Yuvarlak|Sol Kol|Sol Kol|Sa\u011F KolAction|Sol Kol|Sa\u011F KolAction"
+  - first:
+      74: 5150517802097347719
+    second: "Orta Yuvarlak|Sol Kol|Sol Kol|Sa\u011F KolAction|Sol Kol|Sa\u011F KolAction.001"
+  - first:
+      74: -7307582881365446769
+    second: Orta Yuvarlak|Sol Kol|Sol Kol|Sol KolAction|Sol Kol|Sol KolAction
+  - first:
+      74: 7624772289540913290
+    second: Orta Yuvarlak|Sol Kol|Sol Kol|Sol KolAction|Sol Kol|Sol KolAction.001
+  - first:
+      74: -2567055951014361039
+    second: "Orta Yuvarlak|\xC7ivi 1Action"
+  - first:
+      74: 8482931846353623104
+    second: "Orta Yuvarlak|\xC7ivi 1Action.001"
+  - first:
+      74: -560081961273843725
+    second: "Orta Yuvarlak|\xC7ivi 1Action.002"
+  - first:
+      74: 5649039856368131161
+    second: "Orta Yuvarlak|\xC7ivi 2Action"
+  - first:
+      74: 3012148370175163637
+    second: "Orta Yuvarlak|\xC7ivi 2Action.001"
+  - first:
+      74: -5098472718162474572
+    second: "Orta Yuvarlak|\xC7ivi 2Action.002"
+  - first:
+      74: -3954733190130394328
+    second: "Orta Yuvarlak|\xC7ivi 3Action"
+  - first:
+      74: -5288217341699002121
+    second: "Orta Yuvarlak|\xC7ivi 3Action.001"
+  - first:
+      74: 817108964484901616
+    second: "Orta Yuvarlak|\xC7ivi 3Action.002"
+  - first:
+      74: -446470981787760583
+    second: "Orta Yuvarlak|\xC7ivi 4Action"
+  - first:
+      74: -924481999203467872
+    second: "Orta Yuvarlak|\xC7ivi 4Action.001"
+  - first:
+      74: -1672250691379171196
+    second: "Orta Yuvarlak|\xC7ivi 4Action.002"
+  - first:
+      74: -8051102449201487124
+    second: Cube|Action
+  - first:
+      74: -1404934914944061489
+    second: Cube|Action.001
+  - first:
+      74: 7708070724893832537
+    second: Cube|Action.002
+  - first:
+      74: -7359060483159870833
+    second: Cube|Action.003
+  - first:
+      74: -3999578356269874737
+    second: Cube|CubeAction
+  - first:
+      74: -7918129362319027497
+    second: Cube|CubeAction.001
+  - first:
+      74: -4473016424031684122
+    second: Cube|CubeAction.002
+  - first:
+      74: -1222967194551236525
+    second: "Cube|Orta S\u0130lindirAction"
+  - first:
+      74: 7396126159007452616
+    second: "Cube|Orta S\u0130lindirAction.001"
+  - first:
+      74: -2127431415333331990
+    second: "Cube|Orta S\u0130lindirAction.002"
+  - first:
+      74: 5562788245830523779
+    second: Cube|Orta Yuvarlak|Orta Yuvarlak|Orta YuvarlakAction|Orta Yuvarl
+  - first:
+      74: -3996737280418582684
+    second: Cube|Orta Yuvarlak|Orta Yuvarlak|Orta YuvarlakAction|Orta Yuvarlak|O
+  - first:
+      74: 9118450960764480207
+    second: "Cube|Orta Yuvarlak|Orta Yuvarlak|Sa\u011F KolAction|Orta Yuvarlak|Sa"
+  - first:
+      74: -8323285123105560505
+    second: "Cube|Orta Yuvarlak|Orta Yuvarlak|Sa\u011F KolAction|Orta Yuvarlak|Sa\u011F
+      K"
+  - first:
+      74: 545214609000406823
+    second: Cube|Orta Yuvarlak|Orta Yuvarlak|Sol KolAction|Orta Yuvarlak|Sol
+  - first:
+      74: 261649313392159560
+    second: Cube|Orta Yuvarlak|Orta Yuvarlak|Sol KolAction|Orta Yuvarlak|Sol Kol
+  - first:
+      74: 8329299022104168220
+    second: "Cube|Sa\u011F KolAction"
+  - first:
+      74: -5905828305944711055
+    second: "Cube|Sa\u011F KolAction.001"
+  - first:
+      74: -6910110246778369584
+    second: "Cube|Sa\u011F KolAction.002"
+  - first:
+      74: -2785379689342003902
+    second: "Cube|Sa\u011F KolAction.003"
+  - first:
+      74: -4318083531206543593
+    second: "Cube|Sa\u011F KolAction.004"
+  - first:
+      74: 8509653012993193232
+    second: "Cube|Sa\u011F KolAction.005"
+  - first:
+      74: 11383424227230466
+    second: "Cube|Sa\u011F KolAction.006"
+  - first:
+      74: 2435391911874215681
+    second: "Cube|Sa\u011F Kol|Sa\u011F Kol|Orta YuvarlakAction|Sa\u011F Kol|Orta
+      Yuvarla"
+  - first:
+      74: 6727713779358839311
+    second: "Cube|Sa\u011F Kol|Sa\u011F Kol|Orta YuvarlakAction|Sa\u011F Kol|Orta
+      Yuvarla.001"
+  - first:
+      74: -6143054177991450193
+    second: "Cube|Sa\u011F Kol|Sa\u011F Kol|Orta YuvarlakAction|Sa\u011F Kol|Orta
+      YuvarlakAct"
+  - first:
+      74: 1701470249441454848
+    second: "Cube|Sa\u011F Kol|Sa\u011F Kol|Sa\u011F KolAction|Sa\u011F Kol|Sa\u011F
+      KolAction"
+  - first:
+      74: 7390276174419975654
+    second: "Cube|Sa\u011F Kol|Sa\u011F Kol|Sa\u011F KolAction|Sa\u011F Kol|Sa\u011F
+      KolAction.001"
+  - first:
+      74: 3889718044149637507
+    second: "Cube|Sa\u011F Kol|Sa\u011F Kol|Sol KolAction|Sa\u011F Kol|Sol KolAction"
+  - first:
+      74: -7467206445698391125
+    second: "Cube|Sa\u011F Kol|Sa\u011F Kol|Sol KolAction|Sa\u011F Kol|Sol KolAction.001"
+  - first:
+      74: -7499124647981642424
+    second: Cube|Sol KolAction
+  - first:
+      74: -6113901967001308747
+    second: Cube|Sol KolAction.001
+  - first:
+      74: 3005680747262008907
+    second: Cube|Sol KolAction.002
+  - first:
+      74: -3354252498733058749
+    second: Cube|Sol KolAction.003
+  - first:
+      74: 4981340843661930555
+    second: Cube|Sol KolAction.004
+  - first:
+      74: 2570094783009035998
+    second: Cube|Sol Kol|Sol Kol|Orta YuvarlakAction|Sol Kol|Orta YuvarlakAc
+  - first:
+      74: -2830657472282370406
+    second: Cube|Sol Kol|Sol Kol|Orta YuvarlakAction|Sol Kol|Orta YuvarlakAction
+  - first:
+      74: 6163214255469561699
+    second: "Cube|Sol Kol|Sol Kol|Sa\u011F KolAction|Sol Kol|Sa\u011F KolAction"
+  - first:
+      74: 7438962200230051827
+    second: "Cube|Sol Kol|Sol Kol|Sa\u011F KolAction|Sol Kol|Sa\u011F KolAction.001"
+  - first:
+      74: 4635598592361182242
+    second: Cube|Sol Kol|Sol Kol|Sol KolAction|Sol Kol|Sol KolAction
+  - first:
+      74: 3880410872726965794
+    second: Cube|Sol Kol|Sol Kol|Sol KolAction|Sol Kol|Sol KolAction.001
+  - first:
+      74: 8879568767094007577
+    second: "Cube|\xC7ivi 1Action"
+  - first:
+      74: -6208765422611160867
+    second: "Cube|\xC7ivi 1Action.001"
+  - first:
+      74: -3742129978776943140
+    second: "Cube|\xC7ivi 1Action.002"
+  - first:
+      74: 5369943668055331333
+    second: "Cube|\xC7ivi 2Action"
+  - first:
+      74: -511563718193465907
+    second: "Cube|\xC7ivi 2Action.001"
+  - first:
+      74: -5201311381185257493
+    second: "Cube|\xC7ivi 2Action.002"
+  - first:
+      74: 3061636998701637090
+    second: "Cube|\xC7ivi 3Action"
+  - first:
+      74: -1341613569872149255
+    second: "Cube|\xC7ivi 3Action.001"
+  - first:
+      74: 9085331391476297962
+    second: "Cube|\xC7ivi 3Action.002"
+  - first:
+      74: -2369486627788479557
+    second: "Cube|\xC7ivi 4Action"
+  - first:
+      74: 777192363217611050
+    second: "Cube|\xC7ivi 4Action.001"
+  - first:
+      74: 2496263625930558128
+    second: "Cube|\xC7ivi 4Action.002"
+  - first:
+      74: 8963491253167670860
+    second: "\xC7ivi 1|Action"
+  - first:
+      74: -7801555851323040784
+    second: "\xC7ivi 1|Action.001"
+  - first:
+      74: 5978065596321487181
+    second: "\xC7ivi 1|Action.002"
+  - first:
+      74: -7172702440217688034
+    second: "\xC7ivi 1|Action.003"
+  - first:
+      74: -3553708605446114680
+    second: "\xC7ivi 1|CubeAction"
+  - first:
+      74: -6990720469785497507
+    second: "\xC7ivi 1|CubeAction.001"
+  - first:
+      74: 2388762027771318787
+    second: "\xC7ivi 1|CubeAction.002"
+  - first:
+      74: 5181661433208198682
+    second: "\xC7ivi 1|Orta S\u0130lindirAction"
+  - first:
+      74: 6974271134746967705
+    second: "\xC7ivi 1|Orta S\u0130lindirAction.001"
+  - first:
+      74: 8358830502670425159
+    second: "\xC7ivi 1|Orta S\u0130lindirAction.002"
+  - first:
+      74: 6379626942431457403
+    second: "\xC7ivi 1|Orta Yuvarlak|Orta Yuvarlak|Orta YuvarlakAction|Orta Yuvarl"
+  - first:
+      74: -6628060903495076032
+    second: "\xC7ivi 1|Orta Yuvarlak|Orta Yuvarlak|Orta YuvarlakAction|Orta Yuvarlak|O"
+  - first:
+      74: -4805487945188322487
+    second: "\xC7ivi 1|Orta Yuvarlak|Orta Yuvarlak|Sa\u011F KolAction|Orta Yuvarlak|Sa"
+  - first:
+      74: -577301213044578474
+    second: "\xC7ivi 1|Orta Yuvarlak|Orta Yuvarlak|Sa\u011F KolAction|Orta Yuvarlak|Sa\u011F
+      K"
+  - first:
+      74: 5514208905672635770
+    second: "\xC7ivi 1|Orta Yuvarlak|Orta Yuvarlak|Sol KolAction|Orta Yuvarlak|Sol"
+  - first:
+      74: 4734054424877107434
+    second: "\xC7ivi 1|Orta Yuvarlak|Orta Yuvarlak|Sol KolAction|Orta Yuvarlak|Sol
+      Kol"
+  - first:
+      74: 4659410946328122085
+    second: "\xC7ivi 1|Sa\u011F KolAction"
+  - first:
+      74: -2728516239866003220
+    second: "\xC7ivi 1|Sa\u011F KolAction.001"
+  - first:
+      74: 3572766545291777366
+    second: "\xC7ivi 1|Sa\u011F KolAction.002"
+  - first:
+      74: 3117035554030679853
+    second: "\xC7ivi 1|Sa\u011F KolAction.003"
+  - first:
+      74: 9168429465663411215
+    second: "\xC7ivi 1|Sa\u011F KolAction.004"
+  - first:
+      74: -3117489721644833657
+    second: "\xC7ivi 1|Sa\u011F KolAction.005"
+  - first:
+      74: 8158000968779618041
+    second: "\xC7ivi 1|Sa\u011F KolAction.006"
+  - first:
+      74: 1059743002882830912
+    second: "\xC7ivi 1|Sa\u011F Kol|Sa\u011F Kol|Orta YuvarlakAction|Sa\u011F Kol|Orta
+      Yuvarla"
+  - first:
+      74: 5858526656068860560
+    second: "\xC7ivi 1|Sa\u011F Kol|Sa\u011F Kol|Orta YuvarlakAction|Sa\u011F Kol|Orta
+      Yuvarla.001"
+  - first:
+      74: -6026279112594402963
+    second: "\xC7ivi 1|Sa\u011F Kol|Sa\u011F Kol|Orta YuvarlakAction|Sa\u011F Kol|Orta
+      YuvarlakAct"
+  - first:
+      74: -5064346224677513579
+    second: "\xC7ivi 1|Sa\u011F Kol|Sa\u011F Kol|Sa\u011F KolAction|Sa\u011F Kol|Sa\u011F
+      KolAction"
+  - first:
+      74: -8075981571440471374
+    second: "\xC7ivi 1|Sa\u011F Kol|Sa\u011F Kol|Sa\u011F KolAction|Sa\u011F Kol|Sa\u011F
+      KolAction.001"
+  - first:
+      74: -341485778643591519
+    second: "\xC7ivi 1|Sa\u011F Kol|Sa\u011F Kol|Sol KolAction|Sa\u011F Kol|Sol KolAction"
+  - first:
+      74: 4850718822165905520
+    second: "\xC7ivi 1|Sa\u011F Kol|Sa\u011F Kol|Sol KolAction|Sa\u011F Kol|Sol KolAction.001"
+  - first:
+      74: 4361344885408879488
+    second: "\xC7ivi 1|Sol KolAction"
+  - first:
+      74: 7341325574598501290
+    second: "\xC7ivi 1|Sol KolAction.001"
+  - first:
+      74: 6673701436082834377
+    second: "\xC7ivi 1|Sol KolAction.002"
+  - first:
+      74: -4795610427881961218
+    second: "\xC7ivi 1|Sol KolAction.003"
+  - first:
+      74: 4866113555740139273
+    second: "\xC7ivi 1|Sol KolAction.004"
+  - first:
+      74: -3172158438024903279
+    second: "\xC7ivi 1|Sol Kol|Sol Kol|Orta YuvarlakAction|Sol Kol|Orta YuvarlakAc"
+  - first:
+      74: 1450916626162102539
+    second: "\xC7ivi 1|Sol Kol|Sol Kol|Orta YuvarlakAction|Sol Kol|Orta YuvarlakAction"
+  - first:
+      74: 1037511927467197195
+    second: "\xC7ivi 1|Sol Kol|Sol Kol|Sa\u011F KolAction|Sol Kol|Sa\u011F KolAction"
+  - first:
+      74: 7548634346564125975
+    second: "\xC7ivi 1|Sol Kol|Sol Kol|Sa\u011F KolAction|Sol Kol|Sa\u011F KolAction.001"
+  - first:
+      74: -5981153985981082996
+    second: "\xC7ivi 1|Sol Kol|Sol Kol|Sol KolAction|Sol Kol|Sol KolAction"
+  - first:
+      74: -2687691579913571431
+    second: "\xC7ivi 1|Sol Kol|Sol Kol|Sol KolAction|Sol Kol|Sol KolAction.001"
+  - first:
+      74: -8469630169602006937
+    second: "\xC7ivi 1|\xC7ivi 1Action"
+  - first:
+      74: -8329179335716430222
+    second: "\xC7ivi 1|\xC7ivi 1Action.001"
+  - first:
+      74: 7069945359603301026
+    second: "\xC7ivi 1|\xC7ivi 1Action.002"
+  - first:
+      74: -1489086779809053878
+    second: "\xC7ivi 1|\xC7ivi 2Action"
+  - first:
+      74: 4567686486056766196
+    second: "\xC7ivi 1|\xC7ivi 2Action.001"
+  - first:
+      74: -2233128171027674009
+    second: "\xC7ivi 1|\xC7ivi 2Action.002"
+  - first:
+      74: 6841853808612569295
+    second: "\xC7ivi 1|\xC7ivi 3Action"
+  - first:
+      74: -3080972686487793738
+    second: "\xC7ivi 1|\xC7ivi 3Action.001"
+  - first:
+      74: -6163841758119190480
+    second: "\xC7ivi 1|\xC7ivi 3Action.002"
+  - first:
+      74: 8421660747190647442
+    second: "\xC7ivi 1|\xC7ivi 4Action"
+  - first:
+      74: 2950279864158005213
+    second: "\xC7ivi 1|\xC7ivi 4Action.001"
+  - first:
+      74: 9126836767746757303
+    second: "\xC7ivi 1|\xC7ivi 4Action.002"
+  - first:
+      74: -7888046372905541138
+    second: Sol Kol|Action
+  - first:
+      74: -1034080847817470864
+    second: Sol Kol|Action.001
+  - first:
+      74: -5200396564265508123
+    second: Sol Kol|Action.002
+  - first:
+      74: 2319488678192909632
+    second: Sol Kol|Action.003
+  - first:
+      74: -4561927402471358238
+    second: Sol Kol|CubeAction
+  - first:
+      74: -8582172026979191316
+    second: Sol Kol|CubeAction.001
+  - first:
+      74: -3494045569684425192
+    second: Sol Kol|CubeAction.002
+  - first:
+      74: -3622059357897898930
+    second: "Sol Kol|Orta S\u0130lindirAction"
+  - first:
+      74: -8366049733573577
+    second: "Sol Kol|Orta S\u0130lindirAction.001"
+  - first:
+      74: -8144660759736526848
+    second: "Sol Kol|Orta S\u0130lindirAction.002"
+  - first:
+      74: -99030308111473731
+    second: Sol Kol|Orta Yuvarlak|Orta Yuvarlak|Orta YuvarlakAction|Orta Yuvarl
+  - first:
+      74: 6061103754223802952
+    second: Sol Kol|Orta Yuvarlak|Orta Yuvarlak|Orta YuvarlakAction|Orta Yuvarlak|O
+  - first:
+      74: -6552529898392248423
+    second: "Sol Kol|Orta Yuvarlak|Orta Yuvarlak|Sa\u011F KolAction|Orta Yuvarlak|Sa"
+  - first:
+      74: -5659266994662561346
+    second: "Sol Kol|Orta Yuvarlak|Orta Yuvarlak|Sa\u011F KolAction|Orta Yuvarlak|Sa\u011F
+      K"
+  - first:
+      74: 6552986091452193225
+    second: Sol Kol|Orta Yuvarlak|Orta Yuvarlak|Sol KolAction|Orta Yuvarlak|Sol
+  - first:
+      74: -7998132100607179652
+    second: Sol Kol|Orta Yuvarlak|Orta Yuvarlak|Sol KolAction|Orta Yuvarlak|Sol Kol
+  - first:
+      74: 1764779363434104798
+    second: "Sol Kol|Sa\u011F KolAction"
+  - first:
+      74: 8311369463810062517
+    second: "Sol Kol|Sa\u011F KolAction.001"
+  - first:
+      74: -4377051124197481653
+    second: "Sol Kol|Sa\u011F KolAction.002"
+  - first:
+      74: 2158497024040804005
+    second: "Sol Kol|Sa\u011F KolAction.003"
+  - first:
+      74: 4411916155187970828
+    second: "Sol Kol|Sa\u011F KolAction.004"
+  - first:
+      74: 4988803330716515087
+    second: "Sol Kol|Sa\u011F KolAction.005"
+  - first:
+      74: -742083361336520762
+    second: "Sol Kol|Sa\u011F KolAction.006"
+  - first:
+      74: 8830691504984023739
+    second: "Sol Kol|Sa\u011F Kol|Sa\u011F Kol|Orta YuvarlakAction|Sa\u011F Kol|Orta
+      Yuvarla"
+  - first:
+      74: -215893482319885620
+    second: "Sol Kol|Sa\u011F Kol|Sa\u011F Kol|Orta YuvarlakAction|Sa\u011F Kol|Orta
+      Yuvarla.001"
+  - first:
+      74: -8553274898911030502
+    second: "Sol Kol|Sa\u011F Kol|Sa\u011F Kol|Orta YuvarlakAction|Sa\u011F Kol|Orta
+      YuvarlakAct"
+  - first:
+      74: -6765284799740018016
+    second: "Sol Kol|Sa\u011F Kol|Sa\u011F Kol|Sa\u011F KolAction|Sa\u011F Kol|Sa\u011F
+      KolAction"
+  - first:
+      74: 990393539908511055
+    second: "Sol Kol|Sa\u011F Kol|Sa\u011F Kol|Sa\u011F KolAction|Sa\u011F Kol|Sa\u011F
+      KolAction.001"
+  - first:
+      74: -512689579609678800
+    second: "Sol Kol|Sa\u011F Kol|Sa\u011F Kol|Sol KolAction|Sa\u011F Kol|Sol KolAction"
+  - first:
+      74: -426765205237807055
+    second: "Sol Kol|Sa\u011F Kol|Sa\u011F Kol|Sol KolAction|Sa\u011F Kol|Sol KolAction.001"
+  - first:
+      74: -2039833534811252276
+    second: Sol Kol|Sol KolAction
+  - first:
+      74: 6070024456032110975
+    second: Sol Kol|Sol KolAction.001
+  - first:
+      74: -4298757945564090673
+    second: Sol Kol|Sol KolAction.002
+  - first:
+      74: -3084704906804634486
+    second: Sol Kol|Sol KolAction.003
+  - first:
+      74: 182357404562769557
+    second: Sol Kol|Sol KolAction.004
+  - first:
+      74: -6412285638827420623
+    second: Sol Kol|Sol Kol|Sol Kol|Orta YuvarlakAction|Sol Kol|Orta YuvarlakAc
+  - first:
+      74: 8185277289484020426
+    second: Sol Kol|Sol Kol|Sol Kol|Orta YuvarlakAction|Sol Kol|Orta YuvarlakAction
+  - first:
+      74: 7032839452534190517
+    second: "Sol Kol|Sol Kol|Sol Kol|Sa\u011F KolAction|Sol Kol|Sa\u011F KolAction"
+  - first:
+      74: 5588439545623160939
+    second: "Sol Kol|Sol Kol|Sol Kol|Sa\u011F KolAction|Sol Kol|Sa\u011F KolAction.001"
+  - first:
+      74: -1618849514976566834
+    second: Sol Kol|Sol Kol|Sol Kol|Sol KolAction|Sol Kol|Sol KolAction
+  - first:
+      74: -2039676295612920780
+    second: Sol Kol|Sol Kol|Sol Kol|Sol KolAction|Sol Kol|Sol KolAction.001
+  - first:
+      74: 8295685331148841369
+    second: "Sol Kol|\xC7ivi 1Action"
+  - first:
+      74: 1340848401359982822
+    second: "Sol Kol|\xC7ivi 1Action.001"
+  - first:
+      74: -7722188986574498591
+    second: "Sol Kol|\xC7ivi 1Action.002"
+  - first:
+      74: -6155246546522705153
+    second: "Sol Kol|\xC7ivi 2Action"
+  - first:
+      74: 2091215391522823506
+    second: "Sol Kol|\xC7ivi 2Action.001"
+  - first:
+      74: -1065446776232126818
+    second: "Sol Kol|\xC7ivi 2Action.002"
+  - first:
+      74: 1403813461737194853
+    second: "Sol Kol|\xC7ivi 3Action"
+  - first:
+      74: 1444353895461270066
+    second: "Sol Kol|\xC7ivi 3Action.001"
+  - first:
+      74: 3605523236481436073
+    second: "Sol Kol|\xC7ivi 3Action.002"
+  - first:
+      74: 7105546765458958811
+    second: "Sol Kol|\xC7ivi 4Action"
+  - first:
+      74: -319278638213522345
+    second: "Sol Kol|\xC7ivi 4Action.001"
+  - first:
+      74: -5046655183858170289
+    second: "Sol Kol|\xC7ivi 4Action.002"
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
