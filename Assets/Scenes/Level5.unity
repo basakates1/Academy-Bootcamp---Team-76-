@@ -161,6 +161,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1539765571}
     - target: {fileID: 2103218101, guid: b0c58dc8ec3321344aa96d4af09fd352, type: 3}
+      propertyPath: arrowStyle.texture
+      value: 
+      objectReference: {fileID: 2800000, guid: b14d512c127ad2545b2ce2126a7690c6, type: 3}
+    - target: {fileID: 2103218101, guid: b0c58dc8ec3321344aa96d4af09fd352, type: 3}
       propertyPath: renderers.Array.data[0]
       value: 
       objectReference: {fileID: 1307827887}
@@ -567,6 +571,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1539765571}
     - target: {fileID: 2103218101, guid: b0c58dc8ec3321344aa96d4af09fd352, type: 3}
+      propertyPath: arrowStyle.texture
+      value: 
+      objectReference: {fileID: 2800000, guid: b14d512c127ad2545b2ce2126a7690c6, type: 3}
+    - target: {fileID: 2103218101, guid: b0c58dc8ec3321344aa96d4af09fd352, type: 3}
       propertyPath: renderers.Array.data[0]
       value: 
       objectReference: {fileID: 1307827887}
@@ -712,6 +720,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1539765571}
     - target: {fileID: 2103218101, guid: b0c58dc8ec3321344aa96d4af09fd352, type: 3}
+      propertyPath: arrowStyle.texture
+      value: 
+      objectReference: {fileID: 2800000, guid: b14d512c127ad2545b2ce2126a7690c6, type: 3}
+    - target: {fileID: 2103218101, guid: b0c58dc8ec3321344aa96d4af09fd352, type: 3}
       propertyPath: renderers.Array.data[0]
       value: 
       objectReference: {fileID: 1307827887}
@@ -789,6 +801,10 @@ PrefabInstance:
       propertyPath: toplanmaNoktasi
       value: 
       objectReference: {fileID: 1539765571}
+    - target: {fileID: 2103218101, guid: b0c58dc8ec3321344aa96d4af09fd352, type: 3}
+      propertyPath: arrowStyle.texture
+      value: 
+      objectReference: {fileID: 2800000, guid: b14d512c127ad2545b2ce2126a7690c6, type: 3}
     - target: {fileID: 2103218101, guid: b0c58dc8ec3321344aa96d4af09fd352, type: 3}
       propertyPath: renderers.Array.data[0]
       value: 
@@ -1452,6 +1468,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1539765571}
     - target: {fileID: 2103218101, guid: b0c58dc8ec3321344aa96d4af09fd352, type: 3}
+      propertyPath: arrowStyle.texture
+      value: 
+      objectReference: {fileID: 2800000, guid: b14d512c127ad2545b2ce2126a7690c6, type: 3}
+    - target: {fileID: 2103218101, guid: b0c58dc8ec3321344aa96d4af09fd352, type: 3}
       propertyPath: renderers.Array.data[0]
       value: 
       objectReference: {fileID: 1307827887}
@@ -1834,6 +1854,10 @@ PrefabInstance:
       propertyPath: toplanmaNoktasi
       value: 
       objectReference: {fileID: 1539765571}
+    - target: {fileID: 2103218101, guid: b0c58dc8ec3321344aa96d4af09fd352, type: 3}
+      propertyPath: arrowStyle.texture
+      value: 
+      objectReference: {fileID: 2800000, guid: b14d512c127ad2545b2ce2126a7690c6, type: 3}
     - target: {fileID: 2103218101, guid: b0c58dc8ec3321344aa96d4af09fd352, type: 3}
       propertyPath: renderers.Array.data[0]
       value: 
@@ -2435,6 +2459,10 @@ PrefabInstance:
       propertyPath: toplanmaNoktasi
       value: 
       objectReference: {fileID: 1539765571}
+    - target: {fileID: 2103218101, guid: b0c58dc8ec3321344aa96d4af09fd352, type: 3}
+      propertyPath: arrowStyle.texture
+      value: 
+      objectReference: {fileID: 2800000, guid: b14d512c127ad2545b2ce2126a7690c6, type: 3}
     - target: {fileID: 2103218101, guid: b0c58dc8ec3321344aa96d4af09fd352, type: 3}
       propertyPath: renderers.Array.data[0]
       value: 
