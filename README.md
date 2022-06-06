@@ -99,7 +99,7 @@ Willy’nin hayvanları çiftlikten kaçtı! Dışarda bir çok tehdit var. Onla
 
     - <img src="https://i.ibb.co/cbvbpVT/sprint3-1.gif" alt="Ürün Durumu" width="auto" height="auto">
     - <img src="https://i.ibb.co/WsJWWpV/Sprint3-2.gif" alt="Ürün Durumu" width="auto" height="auto">
-    - <img src="https://i.ibb.co/CmYHrJZ/Sprint3-3.gif" alt="Ürün Durumu" width="auto" height="auto">
+    - <img src="https://ibb.co/Hd4Fr1X" alt="Ürün Durumu" width="auto" height="auto">
 - **Sprint Review:** Alınan kararlar:
     - Kurt ve at prefablerinin değiştirilmesine karar verildi. 
     - Bu sprint için yeni product backloglar eklendi. 
