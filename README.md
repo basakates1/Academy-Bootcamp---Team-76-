@@ -95,3 +95,13 @@ Willy's Farm adlı oyunumuz ile insanların boş zamanlarını değerlendirmeler
     - <img src="https://i.ibb.co/zh5dv63/sprint3-1.png" alt="Sprint 3" width="auto" height="auto">
     - <img src="https://i.ibb.co/nnsZ7qM/sprint3-2.png" alt="Sprint 3" width="auto" height="auto">
     - <img src="https://i.ibb.co/RzyKwxc/Sprint3-3.png" alt="Sprint 3" width="auto" height="auto">
+- **Ürün Durumu:**
+    - <img src="https://i.ibb.co/cbvbpVT/sprint3-1.gif" alt="Ürün Durumu" width="auto" height="auto">
+    - <img src="https://i.ibb.co/WsJWWpV/Sprint3-2.gif" alt="Ürün Durumu" width="auto" height="auto">
+- **Sprint Review:** Alınan kararlar:
+    - Kurt ve at prefablerinin değiştirilmesine karar verildi. 
+    - Bu sprint için yeni product backloglar eklendi. 
+    - Sprint Review katılımcıları: Başak Ateş, Şeyma Nur Algül, Arda Özkardeşler, Ensar Akdere.
+- **Sprint Retrospective:**
+    - Oyunda kullanılan prefablerin lisanslarıyla ilgili daha dikkatli olunmasına karar verildi.
+   
