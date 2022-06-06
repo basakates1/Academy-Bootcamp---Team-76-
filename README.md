@@ -87,7 +87,7 @@ Willy’nin hayvanları çiftlikten kaçtı! Dışarda bir çok tehdit var. Onla
 - **Sprint Notları:** User Storyler Backlogların detay kısmına yazıldı. User Storyler, backloglara yakınlaştırılınca görülebilir.
 - **Sprint içinde tamamlanması tahmin edilen puan:** 70
 - **Puan tamamlama mantığı:** Proje boyunca 210 puanlık backlog tamamlanmasına karar verildi. 3 sprint’e bölünce her bir sprint için 70 puanlık backlog tamamlanacak.
-- **Backlog düzeni ve Story seçimleri:** Backloglar, Product ve Sprint Backloglar olarak ikiye ayrıldı. Her bir Sprintte yeni bir Sprint backlogu yazılacak ve Product Backloguyla birlikte her bir sprint backlogu farklı renkle gösterilecek. İkinci Sprint backlog rengi mor, Product Backlog rengi ise mavi. User Storyler backlogların detaylar kısmına yazıldı. Tahmin puanları Fibonacci puanlamasıyla verildi ve backlog zorluk dereceleri belirlenirken tshirt size birimi kullanıldı. 
+- **Backlog düzeni ve Story seçimleri:** Backloglar, Product ve Sprint Backloglar olarak ikiye ayrıldı. Her bir Sprintte yeni bir Sprint backlogu yazılacak ve Product Backloguyla birlikte her bir sprint backlogu farklı renkle gösterilecek. Üçüncü Sprint backlog rengi kırmızı, Product Backlog rengi ise mavi. User Storyler backlogların detaylar kısmına yazıldı. Tahmin puanları Fibonacci puanlamasıyla verildi ve backlog zorluk dereceleri belirlenirken tshirt size birimi kullanıldı. 
 - **Daily Scrum:** Günlük scrumların Whatsapp ve Discord üzerinden yapılmasına karar verildi. Toplantılar ekran görüntüsü olarak paylaşılacaktır. 
     - [Sprint 3 Daily Scrum](https://github.com/basakates1/Academy-Bootcamp---Team-76-/files/8844149/Sprint3DailyScrum.docx)
 - **Sprint Board Update:** 
