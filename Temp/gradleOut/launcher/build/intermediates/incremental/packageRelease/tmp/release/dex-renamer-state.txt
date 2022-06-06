@@ -1,4 +1,0 @@
-#Mon Jun 06 23:52:52 GMT+03:00 2022
-base.0=D\:\\SheepGame\\Academy-Bootcamp---Team-76-\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
