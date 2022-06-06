@@ -99,7 +99,7 @@ Willy’nin hayvanları çiftlikten kaçtı! Dışarda bir çok tehdit var. Onla
 
     - <img src="https://i.ibb.co/cbvbpVT/sprint3-1.gif" alt="Ürün Durumu" width="auto" height="auto">
     - <img src="https://i.ibb.co/WsJWWpV/Sprint3-2.gif" alt="Ürün Durumu" width="auto" height="auto">
-- <img src="https://i.ibb.co/CmYHrJZ/Sprint3-3.gif" alt="Ürün Durumu" width="auto" height="auto">
+    - <img src="https://i.ibb.co/CmYHrJZ/Sprint3-3.gif" alt="Ürün Durumu" width="auto" height="auto">
 - **Sprint Review:** Alınan kararlar:
     - Kurt ve at prefablerinin değiştirilmesine karar verildi. 
     - Bu sprint için yeni product backloglar eklendi. 
@@ -129,9 +129,11 @@ Willy’nin hayvanları çiftlikten kaçtı! Dışarda bir çok tehdit var. Onla
     -https://www.flaticon.com/
 
 - **Oyun müziği:**
-    -Radiohead by jhaeka  https://joshuuu.itch.io/short-loopable-background-music
+
+    -Radiohead by jhaeka  
+    -https://joshuuu.itch.io/short-loopable-background-music
     
-- **Tilki:**
+- **Tilki:** 
     -Fox walk by tiikeri on Sketchfab, increased the speed of walk animation in the game
     -https://sketchfab.com/3d-models/fox-walk-3883b063fa004210a72198f7dd9bfec7
     
@@ -139,9 +141,9 @@ Willy’nin hayvanları çiftlikten kaçtı! Dışarda bir çok tehdit var. Onla
     -https://assetstore.unity.com/packages/tools/gui/hud-indicator-220695
     
 -**Joystick:**
--https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631
+    -https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631
 
 -** At:**
-Low Poly horse by Planet Voodoo on Sketchfab, added textures on the horse 
--https://sketchfab.com/3d-models/low-poly-horse-fd8af04e86b84fca880c9bdd1fe0704f
+    -Low Poly horse by Planet Voodoo on Sketchfab, added textures on the horse 
+    -https://sketchfab.com/3d-models/low-poly-horse-fd8af04e86b84fca880c9bdd1fe0704f
 
