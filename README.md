@@ -16,14 +16,15 @@ Cerebellum
 ## Ürün İsmi
 Willy's Farm
 ## Ürün Açıklaması: 
-Willy's Farm adlı oyunumuz ile insanların boş zamanlarını değerlendirmelerini amaçlıyoruz.
+Willy’nin hayvanları çiftlikten kaçtı! Dışarda bir çok tehdit var. Onları tilki, tuzak, kaktüs gibi tehlikelerden koruman gerekiyor. Hayvanların tekrar güvende olması için Willy’e yardım et.
+
 ## Ürün Özellikleri
-- Ana karaktere yön vererek çiftlik hayvanlarını bir yerde toplamak 
-- Oyundaki toplanan paralarla oyun içindeki marketten itemler alınabilir
+- Ana karaktere yön vererek çiftlik hayvanlarını ahırda toplamak 
+- Oyundaki toplanan paralarla Willy’i kişiselleştirebilirsin (gözlük, şapka, tulum, ayakkabı)
 - Hızlı ilerleme kaydedilebilir 
 - Kısa oyun oturumu
-- Kolay anlaşılabilir oyun mekaniği 
-- Basit gelir modeli
+- Kolay ve anlaşılabilir oyun mekaniği 
+- Oyun deneyimini olumsuz etkilemeden ödüllü reklamlar aracılığıyla sağlanan bir gelir modeli
 
 
 ## Hedef Kitle 
@@ -107,6 +108,7 @@ Willy's Farm adlı oyunumuz ile insanların boş zamanlarını değerlendirmeler
     - Oyunda kullanılan prefablerin lisanslarıyla ilgili daha dikkatli olunmasına karar verildi.
 
 # Credits 
+
 - **Ses Dosyaları:**
     - Sound effects obtained from https://www.zapsplat.com (inek, koyun, tavuk)
     - https://mixkit.co/  (Sound Effects Free License) (tavşan sesi)
@@ -120,8 +122,6 @@ Willy's Farm adlı oyunumuz ile insanların boş zamanlarını değerlendirmeler
     -https://assetstore.unity.com/packages/3d/environments/low-poly-seasonal-landscape-75514
     -https://assetstore.unity.com/packages/2d/textures-materials/lowpoly-textures-pack-140717
 
-
-
 - **UI assetleri:** 
     -https://assetstore.unity.com/packages/2d/gui/icons/simple-button-set-01-153979#description
 
@@ -130,13 +130,17 @@ Willy's Farm adlı oyunumuz ile insanların boş zamanlarını değerlendirmeler
 
 - **Oyun müziği:**
     -Radiohead by jhaeka  https://joshuuu.itch.io/short-loopable-background-music
+    
 - **Tilki:**
     -Fox walk by tiikeri on Sketchfab, increased the speed of walk animation in the game
     -https://sketchfab.com/3d-models/fox-walk-3883b063fa004210a72198f7dd9bfec7
-  - **HUD Indicator:**
+    
+- **HUD Indicator:**
     -https://assetstore.unity.com/packages/tools/gui/hud-indicator-220695
+    
 -**Joystick:**
 -https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631
+
 -** At:**
 Low Poly horse by Planet Voodoo on Sketchfab, added textures on the horse 
 -https://sketchfab.com/3d-models/low-poly-horse-fd8af04e86b84fca880c9bdd1fe0704f
