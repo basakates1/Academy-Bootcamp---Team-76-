@@ -82,5 +82,3 @@ Willy's Farm adlı oyunumuz ile insanların boş zamanlarını değerlendirmeler
 - **Sprint Retrospective:**
     - Görev dağılımının daha dengeli olmasına karar verildi.
     - Github için bir developer seçildi ve onun pushlamasına karar verildi. Pushlayan kişi commitlerde kodu kimin yazdigini belirtecek.
-    
-
