@@ -112,6 +112,7 @@ Willy’nin hayvanları çiftlikten kaçtı! Dışarda bir çok tehdit var. Onla
 - **Ses Dosyaları:**
     - Sound effects obtained from https://www.zapsplat.com (inek, koyun, tavuk)
     - https://mixkit.co/  (Sound Effects Free License) (tavşan sesi)
+  
 - **Oyunda kullanılan çevre assetleri:**
  
     - https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479#description
@@ -130,8 +131,7 @@ Willy’nin hayvanları çiftlikten kaçtı! Dışarda bir çok tehdit var. Onla
     - https://www.flaticon.com/
 
 - **Oyun müziği:**
-
-    -Radiohead by jhaeka  
+    - Radiohead by jhaeka  
     - https://joshuuu.itch.io/short-loopable-background-music
     
 - **Tilki:** 
@@ -141,10 +141,12 @@ Willy’nin hayvanları çiftlikten kaçtı! Dışarda bir çok tehdit var. Onla
 - **HUD Indicator:**
     - https://assetstore.unity.com/packages/tools/gui/hud-indicator-220695
     
--**Joystick:**
+- **Joystick:**
     - https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631
 
--** At:**
+- **At:**
     - Low Poly horse by Planet Voodoo on Sketchfab, added textures on the horse 
     - https://sketchfab.com/3d-models/low-poly-horse-fd8af04e86b84fca880c9bdd1fe0704f
+    
+  
 
