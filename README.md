@@ -94,12 +94,12 @@ Willy’nin hayvanları çiftlikten kaçtı! Dışarda bir çok tehdit var. Onla
     - [Miro Sprint Backlog](https://miro.com/app/board/uXjVO4-c5TQ=/)
     - <img src="https://i.ibb.co/zh5dv63/sprint3-1.png" alt="Sprint 3" width="auto" height="auto">
     - <img src="https://i.ibb.co/nnsZ7qM/sprint3-2.png" alt="Sprint 3" width="auto" height="auto">
-    - <img src="https://i.ibb.co/RzyKwxc/Sprint3-3.png" alt="Sprint 3" width="auto" height="auto">
+    - <img src="https://i.ibb.co/X8L2zNV/RPReplay-Final1654546040-1.gif" alt="Sprint 3" width="auto" height="auto">
 - **Ürün Durumu:**
 
     - <img src="https://i.ibb.co/cbvbpVT/sprint3-1.gif" alt="Ürün Durumu" width="auto" height="auto">
     - <img src="https://i.ibb.co/WsJWWpV/Sprint3-2.gif" alt="Ürün Durumu" width="auto" height="auto">
-    - <img src="https://ibb.co/Hd4Fr1X" alt="Ürün Durumu" width="auto" height="auto">
+    - <img src="https://i.ibb.co/X8L2zNV/RPReplay-Final1654546040-1.gif" alt="Ürün Durumu" width="auto" height="auto">
 - **Sprint Review:** Alınan kararlar:
     - Kurt ve at prefablerinin değiştirilmesine karar verildi. 
     - Bu sprint için yeni product backloglar eklendi. 
