@@ -83,4 +83,15 @@ Willy's Farm adlı oyunumuz ile insanların boş zamanlarını değerlendirmeler
     - Görev dağılımının daha dengeli olmasına karar verildi.
     - Github için bir developer seçildi ve onun pushlamasına karar verildi. Pushlayan kişi commitlerde kodu kimin yazdigini belirtecek.
     
-
+# Sprint 3
+- **Sprint Notları:** User Storyler Backlogların detay kısmına yazıldı. User Storyler, backloglara yakınlaştırılınca görülebilir.
+- **Sprint içinde tamamlanması tahmin edilen puan:** 70
+- **Puan tamamlama mantığı:** Proje boyunca 210 puanlık backlog tamamlanmasına karar verildi. 3 sprint’e bölünce her bir sprint için 70 puanlık backlog tamamlanacak.
+- **Backlog düzeni ve Story seçimleri:** Backloglar, Product ve Sprint Backloglar olarak ikiye ayrıldı. Her bir Sprintte yeni bir Sprint backlogu yazılacak ve Product Backloguyla birlikte her bir sprint backlogu farklı renkle gösterilecek. İkinci Sprint backlog rengi mor, Product Backlog rengi ise mavi. User Storyler backlogların detaylar kısmına yazıldı. Tahmin puanları Fibonacci puanlamasıyla verildi ve backlog zorluk dereceleri belirlenirken tshirt size birimi kullanıldı. 
+- **Daily Scrum:** Günlük scrumların Whatsapp ve Discord üzerinden yapılmasına karar verildi. Toplantılar ekran görüntüsü olarak paylaşılacaktır. 
+    - [Sprint 3 Daily Scrum](https://github.com/basakates1/Academy-Bootcamp---Team-76-/files/8844149/Sprint3DailyScrum.docx)
+- **Sprint Board Update:** 
+    - [Miro Sprint Backlog](https://miro.com/app/board/uXjVO4-c5TQ=/)
+    - <img src="https://i.ibb.co/zh5dv63/sprint3-1.png" alt="Sprint 3" width="auto" height="auto">
+    - <img src="https://i.ibb.co/nnsZ7qM/sprint3-2.png" alt="Sprint 3" width="auto" height="auto">
+    - <img src="https://i.ibb.co/RzyKwxc/Sprint3-3.png" alt="Sprint 3" width="auto" height="auto">
