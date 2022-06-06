@@ -104,4 +104,28 @@ Willy's Farm adlı oyunumuz ile insanların boş zamanlarını değerlendirmeler
     - Sprint Review katılımcıları: Başak Ateş, Şeyma Nur Algül, Arda Özkardeşler, Ensar Akdere.
 - **Sprint Retrospective:**
     - Oyunda kullanılan prefablerin lisanslarıyla ilgili daha dikkatli olunmasına karar verildi.
+
+# Credits 
+- **Ses Dosyaları:**
+    - Sound effects obtained from https://www.zapsplat.com (inek, koyun, tavuk)
+    - https://mixkit.co/  (Sound Effects Free License) (tavşan sesi)
+- **Oyunda kullanılan çevre assetleri:**
+    -https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479#description
+    -https://assetstore.unity.com/packages/3d/props/free-mining-pack-low-poly-ores-gems-tools-props-189962
+    -https://assetstore.unity.com/packages/3d/characters/animals/meshtint-free-chick-mega-toon-series-152777#description
+    -https://assetstore.unity.com/packages/3d/environments/landscapes/polydesert-107196
+    -https://assetstore.unity.com/packages/2d/environments/painted-hq-2d-forest-medieval-background-97738
+    -stylized lantern by BeerP on Sketchfab, no changes were made https://sketchfab.com/3d-models/stylized-lantern-b37aa90dbc5141f0afe9d7313c1807d1
+    -https://assetstore.unity.com/packages/3d/environments/low-poly-seasonal-landscape-75514
+    -https://assetstore.unity.com/packages/2d/textures-materials/lowpoly-textures-pack-140717
+- **UI assetleri:** 
+    -https://assetstore.unity.com/packages/2d/gui/icons/simple-button-set-01-153979#description
+
+- **UI ikonları:**
+    -https://www.flaticon.com/
+
+- **Oyun müziği:**
+    -Radiohead by jhaeka  https://joshuuu.itch.io/short-loopable-background-music
+- **Tilki:**
+    -Fox by victory_mirosya on Sketchfab, increased the speed of walk animation  https://sketchfab.com/3d-models/fox-f372c04de44640fbb6a4f9e4e5845c78 
    
