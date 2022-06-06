@@ -113,37 +113,38 @@ Willy’nin hayvanları çiftlikten kaçtı! Dışarda bir çok tehdit var. Onla
     - Sound effects obtained from https://www.zapsplat.com (inek, koyun, tavuk)
     - https://mixkit.co/  (Sound Effects Free License) (tavşan sesi)
 - **Oyunda kullanılan çevre assetleri:**
-    -https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479#description
-    -https://assetstore.unity.com/packages/3d/props/free-mining-pack-low-poly-ores-gems-tools-props-189962
-    -https://assetstore.unity.com/packages/3d/characters/animals/meshtint-free-chick-mega-toon-series-152777#description
-    -https://assetstore.unity.com/packages/3d/environments/landscapes/polydesert-107196
-    -https://assetstore.unity.com/packages/2d/environments/painted-hq-2d-forest-medieval-background-97738
-    -stylized lantern by BeerP on Sketchfab, no changes were made https://sketchfab.com/3d-models/stylized-lantern-b37aa90dbc5141f0afe9d7313c1807d1
-    -https://assetstore.unity.com/packages/3d/environments/low-poly-seasonal-landscape-75514
-    -https://assetstore.unity.com/packages/2d/textures-materials/lowpoly-textures-pack-140717
+ 
+    - https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479#description
+    - https://assetstore.unity.com/packages/3d/props/free-mining-pack-low-poly-ores-gems-tools-props-189962
+    - https://assetstore.unity.com/packages/3d/characters/animals/meshtint-free-chick-mega-toon-series-152777#description
+    - https://assetstore.unity.com/packages/3d/environments/landscapes/polydesert-107196
+    - https://assetstore.unity.com/packages/2d/environments/painted-hq-2d-forest-medieval-background-97738
+    - stylized lantern by BeerP on Sketchfab, no changes were made https://sketchfab.com/3d-models/stylized-lantern-b37aa90dbc5141f0afe9d7313c1807d1
+    - https://assetstore.unity.com/packages/3d/environments/low-poly-seasonal-landscape-75514
+    - https://assetstore.unity.com/packages/2d/textures-materials/lowpoly-textures-pack-140717
 
 - **UI assetleri:** 
-    -https://assetstore.unity.com/packages/2d/gui/icons/simple-button-set-01-153979#description
+    - https://assetstore.unity.com/packages/2d/gui/icons/simple-button-set-01-153979#description
 
 - **UI ikonları:**
-    -https://www.flaticon.com/
+    - https://www.flaticon.com/
 
 - **Oyun müziği:**
 
     -Radiohead by jhaeka  
-    -https://joshuuu.itch.io/short-loopable-background-music
+    - https://joshuuu.itch.io/short-loopable-background-music
     
 - **Tilki:** 
-    -Fox walk by tiikeri on Sketchfab, increased the speed of walk animation in the game
-    -https://sketchfab.com/3d-models/fox-walk-3883b063fa004210a72198f7dd9bfec7
+    - Fox walk by tiikeri on Sketchfab, increased the speed of walk animation in the game
+    - https://sketchfab.com/3d-models/fox-walk-3883b063fa004210a72198f7dd9bfec7
     
 - **HUD Indicator:**
-    -https://assetstore.unity.com/packages/tools/gui/hud-indicator-220695
+    - https://assetstore.unity.com/packages/tools/gui/hud-indicator-220695
     
 -**Joystick:**
-    -https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631
+    - https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631
 
 -** At:**
-    -Low Poly horse by Planet Voodoo on Sketchfab, added textures on the horse 
-    -https://sketchfab.com/3d-models/low-poly-horse-fd8af04e86b84fca880c9bdd1fe0704f
+    - Low Poly horse by Planet Voodoo on Sketchfab, added textures on the horse 
+    - https://sketchfab.com/3d-models/low-poly-horse-fd8af04e86b84fca880c9bdd1fe0704f
 
