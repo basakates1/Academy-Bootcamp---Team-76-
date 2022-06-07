@@ -147,6 +147,14 @@ Willy’nin hayvanları çiftlikten kaçtı! Dışarda bir çok tehdit var. Onla
 - **At:**
     - Low Poly horse by Planet Voodoo on Sketchfab, added textures on the horse 
     - https://sketchfab.com/3d-models/low-poly-horse-fd8af04e86b84fca880c9bdd1fe0704f
+   
+- **Skybox:**
+    - https://assetstore.unity.com/packages/2d/textures-materials/sky/free-stylized-skybox-212257#description
     
+- **Animasyonlar:**
+    - https://www.mixamo.com/
+
+- **Particle for PowerUp:**
+    - https://assetstore.unity.com/packages/vfx/particles/cartoon-fx-free-109565#publisher
   
 
